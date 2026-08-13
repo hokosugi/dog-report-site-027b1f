@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2026-08-12-0730",
+    "date": "2026-08-12",
+    "time": "07:30",
+    "type": "walk",
+    "recorder": "まさし",
+    "summary": "朝の散歩、公園コースを元気に歩いた",
+    "meal": null,
+    "elimination": null,
+    "walk": { "duration_min": 25, "distance_km": 1.8, "place": "近所の公園", "condition": "元気", "weather": "晴れ 27℃" },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "帰り際に他の犬に吠えた",
+    "media": null
+  },
+  {
+    "id": "2026-08-12-0800",
+    "date": "2026-08-12",
+    "time": "08:00",
+    "type": "meal",
+    "recorder": "まさし",
+    "summary": "朝ごはん完食、いつものフード",
+    "meal": { "food_name": "いつものドライフード", "amount_g": 90, "snack": false, "appetite": "完食" },
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "2026-08-11-1200",
+    "date": "2026-08-11",
+    "time": "12:00",
+    "type": "health",
+    "recorder": "ゆうこ",
+    "summary": "体重測定、前回よりわずかに増加",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": { "weight_kg": 6.4, "hospital_visit": false, "medication": "", "symptom": "", "vet_name": "" },
+    "behavior": null,
+    "play_other": null,
+    "note": "体重計の写真から自動記録（サンプルデータ）",
+    "media": null
+  }
+]

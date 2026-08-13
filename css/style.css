@@ -1,0 +1,221 @@
+:root {
+  --bg: #faf6f0;
+  --card: #ffffff;
+  --ink: #2f2a24;
+  --muted: #7a7266;
+  --accent: #d97742;
+  --accent-soft: #fbe7d8;
+  --line: #ece3d6;
+  --shadow: 0 1px 3px rgba(0, 0, 0, .08), 0 4px 12px rgba(0, 0, 0, .04);
+  --radius: 12px;
+
+  /* record_type badge colors */
+  --c-meal: #e08e45;
+  --c-elimination: #8a7355;
+  --c-walk: #4a90a4;
+  --c-health: #c1495f;
+  --c-behavior: #7a6bc7;
+  --c-play_other: #5f9e6e;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+.site-header {
+  background: var(--accent);
+  color: #fff;
+  padding: 1.6rem 1rem;
+  text-align: center;
+}
+.site-header h1 { margin: 0; font-size: 1.5rem; letter-spacing: .02em; }
+.subtitle { margin: .3rem 0 0; opacity: .9; font-size: .85rem; }
+
+main {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 1.2rem 1rem 3rem;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: .8rem;
+  margin-bottom: .8rem;
+}
+#search {
+  flex: 1;
+  padding: .6rem .9rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: .95rem;
+  background: #fff;
+}
+#search:focus { outline: 2px solid var(--accent-soft); border-color: var(--accent); }
+.count { color: var(--muted); font-size: .85rem; white-space: nowrap; }
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-bottom: 1.2rem;
+}
+.filter-chip {
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--muted);
+  padding: .3rem .8rem;
+  border-radius: 999px;
+  font-size: .8rem;
+  cursor: pointer;
+}
+.filter-chip.active {
+  background: var(--chip-color, var(--accent));
+  border-color: var(--chip-color, var(--accent));
+  color: #fff;
+}
+
+.report {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+}
+.report-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .6rem;
+  padding: 1rem 1.2rem;
+  border-bottom: 1px solid var(--line);
+  background: var(--accent-soft);
+}
+.report-date { font-weight: 700; font-size: 1.05rem; }
+.report-time { color: var(--muted); font-size: .9rem; }
+.report-type {
+  background: var(--type-color, var(--accent));
+  color: #fff;
+  padding: .1rem .7rem;
+  border-radius: 999px;
+  font-size: .8rem;
+}
+.report-recorder {
+  margin-left: auto;
+  color: var(--muted);
+  font-size: .82rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  padding: .1rem .6rem;
+  border-radius: 999px;
+}
+
+.report-body { padding: 1.2rem; }
+.summary {
+  font-weight: 600;
+  font-size: 1.02rem;
+  margin: 0 0 .8rem;
+}
+
+table.facts {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .95rem;
+}
+table.facts th, table.facts td {
+  text-align: left;
+  padding: .55rem .5rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+table.facts th {
+  width: 32%;
+  color: var(--muted);
+  font-weight: 600;
+  white-space: nowrap;
+}
+table.facts tr:last-child th, table.facts tr:last-child td { border-bottom: none; }
+.tag-none { color: var(--muted); }
+
+.note {
+  margin-top: .8rem;
+  padding: .7rem .9rem;
+  background: #fbfbf7;
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  font-size: .9rem;
+  color: var(--ink);
+}
+
+figure { margin: 1.2rem 0 0; }
+figure img {
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+  cursor: zoom-in;
+  background: #eee;
+}
+.video-frame {
+  margin-top: 1.2rem;
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #111;
+}
+.video-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.empty, .error { text-align: center; color: var(--muted); padding: 2rem 0; }
+.error { color: #b4432c; }
+
+.site-footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: .8rem;
+  padding: 1.5rem 1rem 2.5rem;
+}
+
+/* Lightbox */
+.lightbox[hidden] { display: none; }
+.lightbox {
+  position: fixed; inset: 0;
+  background: rgba(0, 0, 0, .88);
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: 2rem; z-index: 50;
+}
+.lightbox img { max-width: 100%; max-height: 80vh; border-radius: 6px; }
+.lightbox-caption { color: #eee; margin-top: 1rem; font-size: .9rem; text-align: center; }
+.lightbox-close {
+  position: absolute; top: 1rem; right: 1.4rem;
+  background: none; border: none; color: #fff;
+  font-size: 2.4rem; line-height: 1; cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  table.facts th { width: 40%; }
+}
+
+/* Drive画像/動画が表示できないときのフォールバック */
+.img-fallback {
+  padding: 1.4rem 1rem;
+  background: #f3f0e9;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: .85rem;
+  text-align: center;
+}

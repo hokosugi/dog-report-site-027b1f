@@ -231,11 +231,15 @@ function resolveSrc(file) {
 
 function mediaEl(media) {
   if (media.type === 'video') {
+    const wrap = document.createElement('div');
+
     const frame = document.createElement('div');
     frame.className = 'video-frame';
     const iframe = document.createElement('iframe');
     iframe.src = media.file;
-    iframe.allow = 'autoplay';
+    iframe.allow = 'autoplay; fullscreen';
+    iframe.allowFullscreen = true;
+    iframe.setAttribute('allowfullscreen', ''); // 一部ブラウザ向けの旧属性も併記
     iframe.referrerPolicy = 'no-referrer';
     iframe.addEventListener('error', () => {
       frame.classList.add('img-error');
@@ -243,7 +247,19 @@ function mediaEl(media) {
       frame.appendChild(fallback());
     });
     frame.appendChild(iframe);
-    return frame;
+    wrap.appendChild(frame);
+
+    if (media.link) {
+      const link = document.createElement('a');
+      link.className = 'video-open-link';
+      link.href = media.link;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = '大きな画面で見る（Driveで開く）';
+      wrap.appendChild(link);
+    }
+
+    return wrap;
   }
   return figure(media);
 }

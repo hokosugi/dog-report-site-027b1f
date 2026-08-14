@@ -177,6 +177,26 @@ figure img {
   height: 100%;
   border: 0;
 }
+.video-open-link {
+  display: inline-block;
+  margin-top: .5rem;
+  font-size: .85rem;
+  color: var(--accent);
+  text-decoration: none;
+}
+.video-open-link:hover,
+.video-open-link:active {
+  text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+  .video-frame {
+    margin-left: -1.2rem;
+    margin-right: -1.2rem;
+    border-radius: 0;
+    width: calc(100% + 2.4rem);
+  }
+}
 
 .empty, .error { text-align: center; color: var(--muted); padding: 2rem 0; }
 .error { color: #b4432c; }

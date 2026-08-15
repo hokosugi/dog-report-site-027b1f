@@ -1,49 +1,5 @@
 [
   {
-    "id": "20260815204043078",
-    "date": "2026-08-15",
-    "time": "20:41",
-    "type": "play_other",
-    "recorder": "父",
-    "summary": "記録内容が不明確です",
-    "meal": null,
-    "elimination": null,
-    "walk": null,
-    "health": null,
-    "behavior": null,
-    "play_other": {
-      "description": "テストテストテスト"
-    },
-    "note": "音声内容：テストテストテスト（要確認：メディア無し（photo_base64もvideo_base64も空でした））",
-    "media": {
-      "type": "video",
-      "file": "https://drive.google.com/file/d/1LRaPNLhE8zBsS7P0G751zLiqXsCQfUiP/preview",
-      "link": "https://drive.google.com/file/d/1LRaPNLhE8zBsS7P0G751zLiqXsCQfUiP/view?media=video"
-    }
-  },
-  {
-    "id": "20260815203807118",
-    "date": "2026-08-15",
-    "time": "20:38",
-    "type": "play_other",
-    "recorder": "父",
-    "summary": "テスト記録",
-    "meal": null,
-    "elimination": null,
-    "walk": null,
-    "health": null,
-    "behavior": null,
-    "play_other": {
-      "description": "テスト"
-    },
-    "note": "テスト（要確認：メディア無し（photo_base64もvideo_base64も空でした））",
-    "media": {
-      "type": "video",
-      "file": "https://drive.google.com/file/d/1qCNPh1XbCIwmAIy_2W7V4TpDECo0iVK2/preview",
-      "link": "https://drive.google.com/file/d/1qCNPh1XbCIwmAIy_2W7V4TpDECo0iVK2/view?media=video"
-    }
-  },
-  {
     "id": "20260815201803759",
     "date": "2026-08-15",
     "time": "20:18",
@@ -64,24 +20,6 @@
       "file": "https://drive.google.com/thumbnail?id=1G-bKYQzwUCL4GVwwi9LQhCySrRCv9rFJ&sz=w2000",
       "link": "https://drive.google.com/file/d/1G-bKYQzwUCL4GVwwi9LQhCySrRCv9rFJ/view"
     }
-  },
-  {
-    "id": "20260815200311946",
-    "date": "2026-08-15",
-    "time": "20:03",
-    "type": "play_other",
-    "recorder": "父",
-    "summary": "テスト記録",
-    "meal": null,
-    "elimination": null,
-    "walk": null,
-    "health": null,
-    "behavior": null,
-    "play_other": {
-      "description": "テスト"
-    },
-    "note": "（要確認：メディア無し（photo_base64もvideo_base64も空でした））",
-    "media": null
   },
   {
     "id": "20260815184438083",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260815110445190",
+    "date": "2026-08-15",
+    "time": "11:05",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "うんちを3回した",
+    "meal": null,
+    "elimination": {
+      "kind": "うんち",
+      "stool_condition": "正常",
+      "count": 3
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=14_ndRLAfmtBm5LqvLcHotRh39rBUDw22&sz=w2000",
+      "link": "https://drive.google.com/file/d/14_ndRLAfmtBm5LqvLcHotRh39rBUDw22/view"
+    }
+  },
+  {
     "id": "20260815104510619",
     "date": "2026-08-15",
     "time": "10:45",

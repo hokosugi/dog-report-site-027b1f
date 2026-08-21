@@ -1,5 +1,31 @@
 [
   {
+    "id": "1787262426094-9789",
+    "date": "2026-08-21",
+    "time": "06:47",
+    "type": "health",
+    "recorder": "父",
+    "summary": "皮膚と鼠蹊部、耳を舐めたり噛んだりしている。皮膚疾患の可能性を疑っている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": null,
+      "medication": null,
+      "symptom": "皮膚、鼠蹊部、耳を舐めたり噛んだりしている",
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "最近の行動として皮膚、鼠蹊部、耳を舐めたり噛んだりする様子が見られ、皮膚疾患の可能性を家族が疑っている。動物病院への受診を検討した方が良い場合がある",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1exkM3BJqu_mgHK3igZPN8WcLhjzhQIYk/preview",
+      "link": "https://drive.google.com/file/d/1exkM3BJqu_mgHK3igZPN8WcLhjzhQIYk/view?media=video"
+    }
+  },
+  {
     "id": "1787197118231-5904",
     "date": "2026-08-20",
     "time": "12:38",

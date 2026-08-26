@@ -1,5 +1,780 @@
 [
   {
+    "id": "1787713791749-7825",
+    "date": "2026-08-26",
+    "time": "12:09",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこ1回",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1787700516293-8742",
+    "date": "2026-08-26",
+    "time": "08:28",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "朝、起きてきた泰希に足にまとわりつく",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "家族（泰希）が朝起きてきた時"
+    },
+    "play_other": null,
+    "note": "起床時の甘えた行動",
+    "media": null
+  },
+  {
+    "id": "1787699013887-6054",
+    "date": "2026-08-26",
+    "time": "08:03",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩で排泄を済ませた",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝の散歩時",
+    "media": null
+  },
+  {
+    "id": "1787664418662-7925",
+    "date": "2026-08-25",
+    "time": "22:27",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "クッションから落ちかかっても寝ているふうちゃん",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "クッションから落ちかかっている状態でも目覚めず、そのまま寝ている"
+    },
+    "note": "居眠り中にクッションから落ちそうになっているが、そのまま寝ている様子",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1FYWlXu5jYf8vTx-NPOG4q7RfifONK6kd/preview",
+      "link": "https://drive.google.com/file/d/1FYWlXu5jYf8vTx-NPOG4q7RfifONK6kd/view?media=video"
+    }
+  },
+  {
+    "id": "1787647822882-2643",
+    "date": "2026-08-25",
+    "time": "16:00",
+    "type": "walk",
+    "recorder": "母",
+    "summary": "庭への散歩、座り込んでしまい元気が無かった",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "庭",
+      "condition": "疲れ気味",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に座り込んでしまい、おしっこをしなかった",
+    "media": null
+  },
+  {
+    "id": "1787639907046-4005",
+    "date": "2026-08-25",
+    "time": "15:38",
+    "type": "play_other",
+    "recorder": "たいき",
+    "summary": "お風呂上りのリラックスタイム、タオルに包まれて寛ぐ",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "お風呂から上がった後、チェック柄のタオルに包まれてリラックスしている"
+    },
+    "note": "お風呂上りの様子を撮影",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1pg9t9pmXRnCtvwGfCZAsdTOOne49M1fc&sz=w2000",
+      "link": "https://drive.google.com/file/d/1pg9t9pmXRnCtvwGfCZAsdTOOne49M1fc/view"
+    }
+  },
+  {
+    "id": "1787626737365-6245",
+    "date": "2026-08-25",
+    "time": "11:58",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "体中を噛む行動が見られ、その後すぐに就寝",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "噛む",
+      "trigger": "体中をカミカミしてすぐに寝てしまった"
+    },
+    "play_other": null,
+    "note": "体中をカミカミしてからすぐに寝てしまった。痒みや不安の可能性あり",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1_xCBE0YDmGchM5yp4KZ3eD2YdFZfesnJ/preview",
+      "link": "https://drive.google.com/file/d/1_xCBE0YDmGchM5yp4KZ3eD2YdFZfesnJ/view?media=video"
+    }
+  },
+  {
+    "id": "1787625250337-9293",
+    "date": "2026-08-25",
+    "time": "11:34",
+    "type": "health",
+    "recorder": "母",
+    "summary": "シャンプー後にかゆみが見られる、シャンプーが原因の可能性",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": false,
+      "medication": "",
+      "symptom": "シャンプー後にかゆみ",
+      "vet_name": ""
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "シャンプーは流したが、かゆみが出ている。シャンプー剤が原因かもしれないと推測される",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/16oLz7cNtZ8mpHQexc3F9VYaxeq-jMoYF/preview",
+      "link": "https://drive.google.com/file/d/16oLz7cNtZ8mpHQexc3F9VYaxeq-jMoYF/view?media=video"
+    }
+  },
+  {
+    "id": "1787617660153-3267",
+    "date": "2026-08-25",
+    "time": "09:27",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ソファーでくつろぐふうちゃん、リラックスしている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファーでくつろいでいる"
+    },
+    "note": "ソファーで休んでいる様子。青いネッククッションを使用。元気そう。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1PIVV1NEwVotx8E5sV8ufuM5R-2x8fJbx&sz=w2000",
+      "link": "https://drive.google.com/file/d/1PIVV1NEwVotx8E5sV8ufuM5R-2x8fJbx/view"
+    }
+  },
+  {
+    "id": "1787606238268-8492",
+    "date": "2026-08-25",
+    "time": "06:17",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっことうんち、正常",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "いつもの散歩コース",
+    "media": null
+  },
+  {
+    "id": "1787565887122-6502",
+    "date": "2026-08-24",
+    "time": "19:04",
+    "type": "health",
+    "recorder": "父",
+    "summary": "ビッコ（引きずる症状）が見られたが回復した",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": null,
+      "medication": null,
+      "symptom": "ビックを引く症状が見られたが回復",
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "ビックを引いていたが現在は元気に回復している",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1AfBjMXxka3tdSFUcuXJyV8FGd_KU-ekG/preview",
+      "link": "https://drive.google.com/file/d/1AfBjMXxka3tdSFUcuXJyV8FGd_KU-ekG/view?media=video"
+    }
+  },
+  {
+    "id": "1787564265606-2211",
+    "date": "2026-08-24",
+    "time": "18:37",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩でおしっことうんちを済ませた",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "夕方の散歩中に排泄",
+    "media": null
+  },
+  {
+    "id": "1787556158252-9819",
+    "date": "2026-08-24",
+    "time": "16:22",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ふうちゃんがベッドで眠そうにくつろいでいる",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ベッドで眠そうにしているふうちゃん"
+    },
+    "note": "まだまだ眠い様子で、ベッドの上でリラックスしている",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1Qnmzty1uW0ISJ-msgF5lpHTqKiyeHRP3&sz=w2000",
+      "link": "https://drive.google.com/file/d/1Qnmzty1uW0ISJ-msgF5lpHTqKiyeHRP3/view"
+    }
+  },
+  {
+    "id": "1787553371483-8145",
+    "date": "2026-08-24",
+    "time": "15:36",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "お昼寝中のふうちゃん、ラグの上で気持ちよさそうに眠っている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "日中の昼寝。ラグの上で丸まってリラックスした状態で休息中"
+    },
+    "note": "リラックスした様子で昼寝中。窓からの日光が当たる快適な場所でぐっすり寝ている",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1PTFkGZH27WfnnTqVCsivgT921ESwz7SB&sz=w2000",
+      "link": "https://drive.google.com/file/d/1PTFkGZH27WfnnTqVCsivgT921ESwz7SB/view"
+    }
+  },
+  {
+    "id": "1787537090915-5574",
+    "date": "2026-08-24",
+    "time": "11:04",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "外出先でおばあちゃんに会い、排泄を2回した",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": null,
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "おばあちゃんと会った外出先での排泄記録",
+    "media": null
+  },
+  {
+    "id": "1787516801249-8686",
+    "date": "2026-08-24",
+    "time": "05:26",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっこ1回、うんち1回。歩きながらうんちが出てしまった",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "歩行中にうんちが出てしまった。気張る前に排出されたようです",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1AxTcuPbakUA8mzh2LkSjObb0_mxrDrSN&sz=w2000",
+      "link": "https://drive.google.com/file/d/1AxTcuPbakUA8mzh2LkSjObb0_mxrDrSN/view"
+    }
+  },
+  {
+    "id": "1787487053814-5913",
+    "date": "2026-08-23",
+    "time": "21:10",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "口を開けて寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "口を開けて寝ている様子"
+    },
+    "note": "",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1Za1QH_ROkU5PH7zNQi6ZM3avZ-h4GqBs/preview",
+      "link": "https://drive.google.com/file/d/1Za1QH_ROkU5PH7zNQi6ZM3avZ-h4GqBs/view?media=video"
+    }
+  },
+  {
+    "id": "1787485657444-3102",
+    "date": "2026-08-23",
+    "time": "20:47",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ベッドの上で気持ちよさそうに寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "寝ている"
+    },
+    "note": "赤いチェック柄のハーネスを着けた状態で、ブラウンのベッドの上でリラックスして寝ている",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1T49831CocoIYAb3YCTIfMfy7OvMTgtoB&sz=w2000",
+      "link": "https://drive.google.com/file/d/1T49831CocoIYAb3YCTIfMfy7OvMTgtoB/view"
+    }
+  },
+  {
+    "id": "1787475872986-7527",
+    "date": "2026-08-23",
+    "time": "18:04",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩中におしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄",
+    "media": null
+  },
+  {
+    "id": "1787454668789-1894",
+    "date": "2026-08-23",
+    "time": "12:11",
+    "type": "walk",
+    "recorder": "母",
+    "summary": "泰希と一緒に散歩へ。出発前の準備完了",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "泰希と一緒に散歩に出かける前に準備をした",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1JkneRVZMDgE8U3aKhQIp6VtgeeEMkQI_/preview",
+      "link": "https://drive.google.com/file/d/1JkneRVZMDgE8U3aKhQIp6VtgeeEMkQI_/view?media=video"
+    }
+  },
+  {
+    "id": "1787452735962-4972",
+    "date": "2026-08-23",
+    "time": "11:38",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ふうちゃんの出っ歯がチャームポイント、リラックスしている様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ふうちゃんが出っ歯を見せてリラックスしている様子。家の中でソファでくつろいでいる。"
+    },
+    "note": "ふうちゃんが出っ歯で笑顔を見せている写真。ソファでくつろいでいます。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1eX9Yf3dGCdzltQG3CCzgpCKS9uuauh6q&sz=w2000",
+      "link": "https://drive.google.com/file/d/1eX9Yf3dGCdzltQG3CCzgpCKS9uuauh6q/view"
+    }
+  },
+  {
+    "id": "1787442492494-3690",
+    "date": "2026-08-23",
+    "time": "08:48",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "爆睡中のふうちゃん、ゲージに戻さず出かける準備",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "ユーザーが出かけるため、ふうちゃんをゲージに戻すかどうかの判断"
+    },
+    "play_other": null,
+    "note": "ユーザーが出かけるため、爆睡中のふうちゃんをゲージに戻すのはかわいそうなので、代わりに泰希を起こす予定。写真には爆睡中のふうちゃんが赤と紺のチェック柄のハーネスを着けて寝ている様子が写っている。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1Gu6nckLZ9pbPnyDXuqaHYvST_xO0LYCj&sz=w2000",
+      "link": "https://drive.google.com/file/d/1Gu6nckLZ9pbPnyDXuqaHYvST_xO0LYCj/view"
+    }
+  },
+  {
+    "id": "1787437209676-6822",
+    "date": "2026-08-23",
+    "time": "07:20",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "耳をかいている様子が見られた",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "不明（テレビを見ている環境での行動）"
+    },
+    "play_other": null,
+    "note": "耳かき・耳をかいている行動が観察されました",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=181MgsGfBgpxpYaWhvDuASc1exhhG2WKQ&sz=w2000",
+      "link": "https://drive.google.com/file/d/181MgsGfBgpxpYaWhvDuASc1exhhG2WKQ/view"
+    }
+  },
+  {
+    "id": "1787406771935-4511",
+    "date": "2026-08-22",
+    "time": "22:52",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "就寝時のゲージ誘導に応じずなかなか動かない",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "就寝時間に玄関のゲージへの誘導"
+    },
+    "play_other": null,
+    "note": "寝る時間に玄関のゲージへ誘導しようとしたが、ふうちゃんがなかなか動かなかった",
+    "media": null
+  },
+  {
+    "id": "1787404980671-2022",
+    "date": "2026-08-22",
+    "time": "22:23",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "靴下を加えて喜ぶふうちゃん",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "靴下を加えて喜んでいる"
+    },
+    "note": "靴下をくわえて楽しそうに遊んでいる様子",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1naMZ59IdaEp_1eGyIKRT1NlhrrFXk-vf/preview",
+      "link": "https://drive.google.com/file/d/1naMZ59IdaEp_1eGyIKRT1NlhrrFXk-vf/view?media=video"
+    }
+  },
+  {
+    "id": "1787402899206-4316",
+    "date": "2026-08-22",
+    "time": "21:48",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ふうちゃんがユニークな寝姿で休んでいる",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ユニークな寝姿で寝ている"
+    },
+    "note": "変わった寝方をしている様子",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1WJWjHvvZeSvIEE3PlEmHtjL9pSbaaB7o/preview",
+      "link": "https://drive.google.com/file/d/1WJWjHvvZeSvIEE3PlEmHtjL9pSbaaB7o/view?media=video"
+    }
+  },
+  {
+    "id": "1787385095206-3960",
+    "date": "2026-08-22",
+    "time": "16:51",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "お腹を出してソファで気持ちよさそうに寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "お腹を出してソファで気持ちよさそうに寝ている。おもちゃを抱いてリラックスしている様子"
+    },
+    "note": "リラックスした寝姿。おもちゃを抱いながら寝ている",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1i7SZPCJdbss5kS7qNG4949is7Dy9hoYk&sz=w2000",
+      "link": "https://drive.google.com/file/d/1i7SZPCJdbss5kS7qNG4949is7Dy9hoYk/view"
+    }
+  },
+  {
+    "id": "1787373954147-9638",
+    "date": "2026-08-22",
+    "time": "13:45",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "ふうちゃん、おしっこ",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "正常",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1PmLCVR2WIbVyaSQhCRFLJnZ3m-KXOb75&sz=w2000",
+      "link": "https://drive.google.com/file/d/1PmLCVR2WIbVyaSQhCRFLJnZ3m-KXOb75/view"
+    }
+  },
+  {
+    "id": "1787373877941-9851",
+    "date": "2026-08-22",
+    "time": "13:44",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "散歩の時間なのに起きようとしない、怠けた様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "散歩の時間だが、起きたくない・怠けている状態"
+    },
+    "play_other": null,
+    "note": "散歩に行こうとしているのに、ふうちゃんがベッドで寝たままで起きない",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1F_Jwam4LyGlf0q51OX_E2JAGRvslArIe&sz=w2000",
+      "link": "https://drive.google.com/file/d/1F_Jwam4LyGlf0q51OX_E2JAGRvslArIe/view"
+    }
+  },
+  {
+    "id": "1787373085433-2810",
+    "date": "2026-08-22",
+    "time": "13:31",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "散歩の準備中に寝坊して起きないふうちゃん",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "散歩の準備をしている時間帯に起きようとしない"
+    },
+    "play_other": null,
+    "note": "散歩に行こうとしているのに、ベッドで寝たままで起きる気配がない様子",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1iWI0Ozu8pUf8NXIInlDOHb9XHJkFB5e1&sz=w2000",
+      "link": "https://drive.google.com/file/d/1iWI0Ozu8pUf8NXIInlDOHb9XHJkFB5e1/view"
+    }
+  },
+  {
+    "id": "1787368776637-2677",
+    "date": "2026-08-22",
+    "time": "12:19",
+    "type": "play_other",
+    "recorder": "たいき",
+    "summary": "ご主人の腕枕でくつろぐ",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ご主人の腕枕でくつろぐ"
+    },
+    "note": "ご主人の腕の上に乗ってリラックスしている様子",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=175kmumAOgsDvjByBbJrfWbs7peldhFiv&sz=w2000",
+      "link": "https://drive.google.com/file/d/175kmumAOgsDvjByBbJrfWbs7peldhFiv/view"
+    }
+  },
+  {
+    "id": "1787365287333-1330",
+    "date": "2026-08-22",
+    "time": "11:21",
+    "type": "play_other",
+    "recorder": "父2",
+    "summary": "高校野球の試合を見ているふうちゃんは全く興味なし",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "テレビで高校野球の試合が放映されている中、ふうちゃんはリビングのタオルの上でくつろいでいる。テレビの内容には全く関心を示さず、普通に横たわっている"
+    },
+    "note": "家族が高校野球を視聴中も、ふうちゃんはテレビに関心を示さずリラックス状態。野球には全く興味がない様子",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1uv0MXb_8wZ99xsaX4vZb3d0m1VV0XuNo&sz=w2000",
+      "link": "https://drive.google.com/file/d/1uv0MXb_8wZ99xsaX4vZb3d0m1VV0XuNo/view"
+    }
+  },
+  {
+    "id": "1787357158489-7262",
+    "date": "2026-08-22",
+    "time": "09:06",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ソファーで寛ろいでリラックス中",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファーで快適にリラックスしている"
+    },
+    "note": "自分でソファーに座ってくつろいでいる様子。家族と一緒に過ごしている時間。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1k1G8SMgc5tl1gTHIh3hMMHVWQz35aIXR&sz=w2000",
+      "link": "https://drive.google.com/file/d/1k1G8SMgc5tl1gTHIh3hMMHVWQz35aIXR/view"
+    }
+  },
+  {
+    "id": "1787351619592-5054",
+    "date": "2026-08-22",
+    "time": "07:33",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "朝食後に泣いていたが、かまってあげたらおとなしくなった",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "朝食後、理由は不明。スキンシップで改善"
+    },
+    "play_other": null,
+    "note": "朝ご飯の後に泣いていた。スキンシップで落ち着いた。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1nNn115d7tV90O3h4XQAqmB9eiBnfzUE4&sz=w2000",
+      "link": "https://drive.google.com/file/d/1nNn115d7tV90O3h4XQAqmB9eiBnfzUE4/view"
+    }
+  },
+  {
+    "id": "1787351571049-6344",
+    "date": "2026-08-22",
+    "time": "07:32",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "朝食後に泣く",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "朝食後"
+    },
+    "play_other": null,
+    "note": "朝ご飯の後に泣いていた",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1rxl7Fiq-zB2TjjP3rzzxiHlDpm5GwklV/preview",
+      "link": "https://drive.google.com/file/d/1rxl7Fiq-zB2TjjP3rzzxiHlDpm5GwklV/view?media=video"
+    }
+  },
+  {
     "id": "1787317480568-9996",
     "date": "2026-08-21",
     "time": "22:04",

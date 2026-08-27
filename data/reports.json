@@ -1,5 +1,69 @@
 [
   {
+    "id": "1787818953003-5616",
+    "date": "2026-08-27",
+    "time": "17:22",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩でおしっこうんち、ともに良好",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1787815568805-1283",
+    "date": "2026-08-27",
+    "time": "16:26",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "四日市メリノール高校女子バスケットボールの生中継を視聴中",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "四日市メリノール高校の女子バスケットボール生中継を一緒に観戦中"
+    },
+    "note": "テレビ画面を見つめて集中している様子",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1EMypXgKTRRM5rPtFyXgHQmkcQw7-j0VN&sz=w2000",
+      "link": "https://drive.google.com/file/d/1EMypXgKTRRM5rPtFyXgHQmkcQw7-j0VN/view"
+    }
+  },
+  {
+    "id": "1787814677773-6465",
+    "date": "2026-08-27",
+    "time": "16:11",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "料理中にキッチンで寝てしまった。踏まれないよう注意が必要",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "料理中にキッチンで飼い主のそばで寝ている。かわいいがキッチン作業中のため踏まれないよう注意が必要な状況"
+    },
+    "note": "飼い主が料理をしている隣でリラックスして寝ている様子。キッチンの床で横たわっており、踏まれてしまう可能性があるため危険な状況だが、愛犬は快適そう",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=12CG5_Qa0HGObrIUFrx1whznhIo-yOAZ4&sz=w2000",
+      "link": "https://drive.google.com/file/d/12CG5_Qa0HGObrIUFrx1whznhIo-yOAZ4/view"
+    }
+  },
+  {
     "id": "1787805989205-1444",
     "date": "2026-08-27",
     "time": "13:46",

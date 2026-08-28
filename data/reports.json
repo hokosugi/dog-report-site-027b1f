@@ -1,5 +1,69 @@
 [
   {
+    "id": "1787893648702-6531",
+    "date": "2026-08-28",
+    "time": "14:07",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "近くの空き地でおしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1787873078724-4826",
+    "date": "2026-08-28",
+    "time": "08:24",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "クッションの上でくつろいでいる。出かけるため玄関のゲージに移動予定",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "クッションの上で休息・くつろいでいる状態"
+    },
+    "note": "飼い主の外出に伴い、クッションからゲージへの移動が予定されている",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1QWgUUGiTnDhrg4FxBfP43fCNXs5uusJm&sz=w2000",
+      "link": "https://drive.google.com/file/d/1QWgUUGiTnDhrg4FxBfP43fCNXs5uusJm/view"
+    }
+  },
+  {
+    "id": "1787863107725-3803",
+    "date": "2026-08-28",
+    "time": "05:38",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "朝の散歩、突然の雨で短縮。おしっこのみ",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "自宅付近",
+      "condition": "普通",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "雨のため散歩時間が短くなり、うんちはできなかった",
+    "media": null
+  },
+  {
     "id": "1787818953003-5616",
     "date": "2026-08-27",
     "time": "17:22",

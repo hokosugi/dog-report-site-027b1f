@@ -1,5 +1,107 @@
 [
   {
+    "id": "1788061378394-4839",
+    "date": "2026-08-30",
+    "time": "12:43",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "おしっこ1回",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": null,
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "ゆっこさんからの報告",
+    "media": null
+  },
+  {
+    "id": "1788061012633-8782",
+    "date": "2026-08-30",
+    "time": "12:36",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ゆっこに連れていかれた",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ゆっこに連れていかれた"
+    },
+    "note": "ゆっこによって移動・連れて行かれた状況。詳細な場所や活動内容は不明瞭です",
+    "media": null
+  },
+  {
+    "id": "1788059594108-5933",
+    "date": "2026-08-30",
+    "time": "12:13",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩中におしっことうんち、両方良好に排出",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩時に排泄。状態は良好。",
+    "media": null
+  },
+  {
+    "id": "1788058186594-4813",
+    "date": "2026-08-30",
+    "time": "11:49",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "いつもの可愛い寝姿、ソファで仰向けで熟睡中",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファでいつもの仰向けの寝姿。リラックスしている様子。"
+    },
+    "note": "お馴染みの寝方。ソファで仰向けになって気持ちよさそうに寝ている様子。赤いハーネスを付けたまま。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1J3pgl-8c1h-Df_k7hhAuetW2VX51JUn5&sz=w2000",
+      "link": "https://drive.google.com/file/d/1J3pgl-8c1h-Df_k7hhAuetW2VX51JUn5/view"
+    }
+  },
+  {
+    "id": "1788045736371-5640",
+    "date": "2026-08-30",
+    "time": "08:22",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "寝ている様子。赤いチェック柄のバンダナを着用",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "寝ている。赤いチェック柄のバンダナを着けた状態で、ベッドの上で休息中。"
+    },
+    "note": "愛犬が寝ている状態の記録。特に異常なし。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1RUBZI4f8CDkAOiyMu07HHex4zXhtT22a&sz=w2000",
+      "link": "https://drive.google.com/file/d/1RUBZI4f8CDkAOiyMu07HHex4zXhtT22a/view"
+    }
+  },
+  {
     "id": "1788008737433-1744",
     "date": "2026-08-29",
     "time": "22:05",

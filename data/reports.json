@@ -1,5 +1,48 @@
 [
   {
+    "id": "1788256318640-7251",
+    "date": "2026-09-01",
+    "time": "18:52",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "大暴れして興奮している様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": ""
+    },
+    "play_other": null,
+    "note": "詳細な状況や原因は不明",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1LG1BOBFcNrL2xl-GXdO6RGQhQItdXf16/preview",
+      "link": "https://drive.google.com/file/d/1LG1BOBFcNrL2xl-GXdO6RGQhQItdXf16/view?media=video"
+    }
+  },
+  {
+    "id": "1788260347723-2995",
+    "date": "2026-09-01",
+    "time": "18:00",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩後、おしっこうんち共に良好",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩後の排泄記録",
+    "media": null
+  },
+  {
     "id": "1788227496467-2646",
     "date": "2026-09-01",
     "time": "10:51",

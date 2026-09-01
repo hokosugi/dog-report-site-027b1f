@@ -1,5 +1,67 @@
 [
   {
+    "id": "1788227496467-2646",
+    "date": "2026-09-01",
+    "time": "10:51",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこをしました",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1788219223281-1719",
+    "date": "2026-09-01",
+    "time": "08:33",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "気持ちよさそうに寝ている、最近は黒い靴下がお気に入り",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "気持ちよさそうに寝ている。最近は黒い靴下がお気に入りのようです。"
+    },
+    "note": "愛犬が気持ちよさそうに寝ている様子、お気に入りのアイテムは黒い靴下",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1E6UBejsDYcJ3HdBbRLMYQnY62iR6LzVw/preview",
+      "link": "https://drive.google.com/file/d/1E6UBejsDYcJ3HdBbRLMYQnY62iR6LzVw/view?media=video"
+    }
+  },
+  {
+    "id": "1788218269687-2510",
+    "date": "2026-09-01",
+    "time": "08:17",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩で排泄あり、うんちは確認、おしっこは不確認",
+    "meal": null,
+    "elimination": {
+      "kind": "うんち",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "おしっこの有無が不確認",
+    "media": null
+  },
+  {
     "id": "1788159287037-3058",
     "date": "2026-08-31",
     "time": "15:54",

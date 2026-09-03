@@ -1,5 +1,149 @@
 [
   {
+    "id": "1788440586922-3335",
+    "date": "2026-09-03",
+    "time": "22:03",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "動画記録",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": null
+    },
+    "note": "",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1NAv_CP9P1Ollv-0wbeqJSiI8SN5J3qYn/preview",
+      "link": "https://drive.google.com/file/d/1NAv_CP9P1Ollv-0wbeqJSiI8SN5J3qYn/view?media=video"
+    }
+  },
+  {
+    "id": "1788440414816-5897",
+    "date": "2026-09-03",
+    "time": "22:00",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "クッションの上で",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": null
+    },
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1788440219499-1350",
+    "date": "2026-09-03",
+    "time": "21:57",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "クッションの上で",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": null
+    },
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1788439185436-2895",
+    "date": "2026-09-03",
+    "time": "21:39",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夜間排泄なし",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 0
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "夜のおしっこがなかった",
+    "media": null
+  },
+  {
+    "id": "1788432557803-3660",
+    "date": "2026-09-03",
+    "time": "19:49",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ボール遊びを続けた",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ボール遊びの続き"
+    },
+    "note": "内容が不明瞭でした",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1mtuaKo2w8Doou1LuIh8rUI4SBX9gOvNi/preview",
+      "link": "https://drive.google.com/file/d/1mtuaKo2w8Doou1LuIh8rUI4SBX9gOvNi/view?media=video"
+    }
+  },
+  {
+    "id": "1788428495450-9063",
+    "date": "2026-09-03",
+    "time": "18:41",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "夕方の散歩、おしっこ・うんちともに良好",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄あり、状態は良好との報告",
+    "media": null
+  },
+  {
+    "id": "1788428340421-6259",
+    "date": "2026-09-03",
+    "time": "18:39",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ボール遊びをして遊んだ",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ボール遊び"
+    },
+    "note": "ふうちゃんがボール遊びをしていた",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1VVA8i2UQ7WQ5w9AY7L-NJFECRC8ZkJan/preview",
+      "link": "https://drive.google.com/file/d/1VVA8i2UQ7WQ5w9AY7L-NJFECRC8ZkJan/view?media=video"
+    }
+  },
+  {
     "id": "1788410288996-7247",
     "date": "2026-09-03",
     "time": "13:38",
@@ -43,6 +187,28 @@
       "type": "image",
       "file": "https://drive.google.com/thumbnail?id=12s8W-6noNGdSKZwS80uloTnPYnKnhXMI&sz=w2000",
       "link": "https://drive.google.com/file/d/12s8W-6noNGdSKZwS80uloTnPYnKnhXMI/view"
+    }
+  },
+  {
+    "id": "1788439918159-7085",
+    "date": "2026-09-03",
+    "time": null,
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "朝の散歩後、ふうちゃんが車内でリラックスしている様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "朝の散歩後、車内でふうちゃんがリラックスしている"
+    },
+    "note": "朝の散歩後の記録。写真から車内でふうちゃんが落ち着いている状態が確認できます。赤いハーネスを装着。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1q9cN4S2mGh7_rjtKRMhJRlMGC-np9y7c&sz=w2000",
+      "link": "https://drive.google.com/file/d/1q9cN4S2mGh7_rjtKRMhJRlMGC-np9y7c/view"
     }
   },
   {

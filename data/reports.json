@@ -1,5 +1,51 @@
 [
   {
+    "id": "1788410288996-7247",
+    "date": "2026-09-03",
+    "time": "13:38",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "散歩中におしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "normal",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "龍が散歩に同行。さっき実施。",
+    "media": null
+  },
+  {
+    "id": "1788381368877-9234",
+    "date": "2026-09-03",
+    "time": "05:36",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "朝の散歩、おしっこうんち両方出て良好",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中におしっこうんちを済ませた。状態は良好。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=12s8W-6noNGdSKZwS80uloTnPYnKnhXMI&sz=w2000",
+      "link": "https://drive.google.com/file/d/12s8W-6noNGdSKZwS80uloTnPYnKnhXMI/view"
+    }
+  },
+  {
     "id": "1788297122518-2079",
     "date": "2026-09-02",
     "time": "18:00",
@@ -190,6 +236,28 @@
     "play_other": null,
     "note": "",
     "media": null
+  },
+  {
+    "id": "1788383768040-1874",
+    "date": "2026-09-02",
+    "time": null,
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "昨日夜の様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "昨日の夜の出来事"
+    },
+    "note": "昨日の夜の出来事とのことですが、具体的な内容が不明瞭でした",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1qKNYlrgGypoKUc1Kjf3UVlmqG67slFxn/preview",
+      "link": "https://drive.google.com/file/d/1qKNYlrgGypoKUc1Kjf3UVlmqG67slFxn/view?media=video"
+    }
   },
   {
     "id": "1788256318640-7251",

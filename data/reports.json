@@ -1,5 +1,95 @@
 [
   {
+    "id": "1788492561167-8063",
+    "date": "2026-09-04",
+    "time": "12:29",
+    "type": "elimination",
+    "recorder": "リュウ",
+    "summary": "おしっこをしました",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1788486109759-1060",
+    "date": "2026-09-04",
+    "time": "10:41",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "人間とくつろぐ。ソファで一緒にリラックス中",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "人間とソファでくつろいでいる。犬は仰向けでリラックス中"
+    },
+    "note": "音声内容が「くつろぐ人間と犬」という短い説明のみ。写真から、人間がソファで横たわり、犬（白い毛並み）がその上で仰向けになってくつろいでいる様子が確認できます。特に遊んでいるというよりは、一緒にリラックスしている状態です。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=14TwfN8sSxoyagjnqCaxPB7lUCJwnTn9r&sz=w2000",
+      "link": "https://drive.google.com/file/d/14TwfN8sSxoyagjnqCaxPB7lUCJwnTn9r/view"
+    }
+  },
+  {
+    "id": "1788475874533-8332",
+    "date": "2026-09-04",
+    "time": "07:51",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "大運動会に参加、終盤の競技を楽しむ",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "大運動会の終盤に参加"
+    },
+    "note": "大運動会の終盤での活動。詳細な内容が不明瞭なため、play_other に分類しました",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/136NQVJdN3YdPJa_ldENVPenJgSMODqmL/preview",
+      "link": "https://drive.google.com/file/d/136NQVJdN3YdPJa_ldENVPenJgSMODqmL/view?media=video"
+    }
+  },
+  {
+    "id": "1788467624450-2461",
+    "date": "2026-09-04",
+    "time": "05:33",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっことうんちを済ませ、その後大運動会",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩後に運動会があった模様",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1yL4FRVYTHtvWrX9RFRr_4jkylHZA1nUc/preview",
+      "link": "https://drive.google.com/file/d/1yL4FRVYTHtvWrX9RFRr_4jkylHZA1nUc/view?media=video"
+    }
+  },
+  {
     "id": "1788440586922-3335",
     "date": "2026-09-03",
     "time": "22:03",
@@ -20,42 +110,6 @@
       "file": "https://drive.google.com/file/d/1NAv_CP9P1Ollv-0wbeqJSiI8SN5J3qYn/preview",
       "link": "https://drive.google.com/file/d/1NAv_CP9P1Ollv-0wbeqJSiI8SN5J3qYn/view?media=video"
     }
-  },
-  {
-    "id": "1788440414816-5897",
-    "date": "2026-09-03",
-    "time": "22:00",
-    "type": "play_other",
-    "recorder": "母",
-    "summary": "クッションの上で",
-    "meal": null,
-    "elimination": null,
-    "walk": null,
-    "health": null,
-    "behavior": null,
-    "play_other": {
-      "description": null
-    },
-    "note": "",
-    "media": null
-  },
-  {
-    "id": "1788440219499-1350",
-    "date": "2026-09-03",
-    "time": "21:57",
-    "type": "play_other",
-    "recorder": "母",
-    "summary": "クッションの上で",
-    "meal": null,
-    "elimination": null,
-    "walk": null,
-    "health": null,
-    "behavior": null,
-    "play_other": {
-      "description": null
-    },
-    "note": "",
-    "media": null
   },
   {
     "id": "1788439185436-2895",

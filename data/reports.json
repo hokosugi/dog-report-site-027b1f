@@ -1,5 +1,47 @@
 [
   {
+    "id": "1788565472357-5206",
+    "date": "2026-09-05",
+    "time": "08:44",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩中、おしっこうんち共に良好",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄",
+    "media": null
+  },
+  {
+    "id": "1788565424923-7587",
+    "date": "2026-09-05",
+    "time": "08:43",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "はじめて階段登りに成功した",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "はじめて階段登りに成功した"
+    },
+    "note": "愛犬が初めて階段を登り切ることができた",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/149W_IJmZxhz3D9a0RkBIn2vqIDM_bEFP/preview",
+      "link": "https://drive.google.com/file/d/149W_IJmZxhz3D9a0RkBIn2vqIDM_bEFP/view?media=video"
+    }
+  },
+  {
     "id": "1788527947356-6440",
     "date": "2026-09-04",
     "time": "22:19",

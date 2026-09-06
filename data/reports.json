@@ -1,5 +1,94 @@
 [
   {
+    "id": "1788665567809-3557",
+    "date": "2026-09-06",
+    "time": "12:32",
+    "type": "health",
+    "recorder": "母",
+    "summary": "体重3.77kg、増え続けているため様子見予定",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": 3.77,
+      "hospital_visit": false,
+      "medication": "",
+      "symptom": "",
+      "vet_name": ""
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "生後5ヶ月前後のメス柴犬。体重は増え続けている状況。小柄だが健康観察中。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1zGzX-F4UQxKQ3rSjpvunN_hnR1F9bIql&sz=w2000",
+      "link": "https://drive.google.com/file/d/1zGzX-F4UQxKQ3rSjpvunN_hnR1F9bIql/view"
+    }
+  },
+  {
+    "id": "1788665485516-6510",
+    "date": "2026-09-06",
+    "time": "12:31",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこに誘ったが座り込んで排泄しなかった",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": null,
+      "count": 0
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "トイレに連れて行ったものの、座り込んで排泄しようとしなかった",
+    "media": null
+  },
+  {
+    "id": "1788659021258-8747",
+    "date": "2026-09-06",
+    "time": "10:43",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩中におしっことうんち",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1788653717064-8900",
+    "date": "2026-09-06",
+    "time": "09:15",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "和室の畳をかじってしまった。1人での放置は避けるべき",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "1人で放置されていた時間中に発生。分離不安または退屈による破壊行動と推測"
+    },
+    "play_other": null,
+    "note": "放置時間中に畳をかじる行動。分離不安や退屈による破壊行動の可能性あり",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1s1Jx00K9Qk-N88LlUFDNmoK62S7EzYTT&sz=w2000",
+      "link": "https://drive.google.com/file/d/1s1Jx00K9Qk-N88LlUFDNmoK62S7EzYTT/view"
+    }
+  },
+  {
     "id": "1788616341057-7225",
     "date": "2026-09-05",
     "time": "22:52",

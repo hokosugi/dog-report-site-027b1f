@@ -1,5 +1,94 @@
 [
   {
+    "id": "1788782409150-7376",
+    "date": "2026-09-07",
+    "time": "21:00",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "久しぶりにクッションで寝る",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "久しぶりにクッションで寝ている"
+    },
+    "note": "愛犬がクッションの上でくつろいでいる様子。通常と異なる場所での就寝行動",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1kQgdfuEcSCFtP6ZFJGGta9wsAZ7rPnkz&sz=w2000",
+      "link": "https://drive.google.com/file/d/1kQgdfuEcSCFtP6ZFJGGta9wsAZ7rPnkz/view"
+    }
+  },
+  {
+    "id": "1788775217641-5682",
+    "date": "2026-09-07",
+    "time": "19:00",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩でおしっことうんちをしました",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": null,
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/153SlzhaSufoylYcA9JfSrkCsY43b_joY/preview",
+      "link": "https://drive.google.com/file/d/153SlzhaSufoylYcA9JfSrkCsY43b_joY/view?media=video"
+    }
+  },
+  {
+    "id": "1788774647202-9792",
+    "date": "2026-09-07",
+    "time": "18:50",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "新しいラグが気になって落ち着かない様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "新しいラグに変えたこと"
+    },
+    "play_other": null,
+    "note": "新しく敷いたラグに対して関心を示し、落ち着きがない状態",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1K5wNtvCedaZXQrXvb1aDw1d2D_ikiA4l/preview",
+      "link": "https://drive.google.com/file/d/1K5wNtvCedaZXQrXvb1aDw1d2D_ikiA4l/view?media=video"
+    }
+  },
+  {
+    "id": "1788774501731-3831",
+    "date": "2026-09-07",
+    "time": "18:48",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩でおしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中の排泄記録",
+    "media": null
+  },
+  {
     "id": "1788752914372-9170",
     "date": "2026-09-07",
     "time": "12:48",

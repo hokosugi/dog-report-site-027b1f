@@ -1,5 +1,47 @@
 [
   {
+    "id": "1788752914372-9170",
+    "date": "2026-09-07",
+    "time": "12:48",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこ、おばあちゃんの前で2回排泄",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": null,
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "龍に連れて行った時はしなかったが、その後おばあちゃんの前で2回排泄",
+    "media": null
+  },
+  {
+    "id": "1788744659061-8323",
+    "date": "2026-09-07",
+    "time": "10:31",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "リビングで家族と過ごす。ベッドの上でリラックスしている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "家族とリビングで一緒に時間を過ごしている。犬はビーズクッションとドッグベッドの間でくつろいでいる"
+    },
+    "note": "写真のみの記録。犬が茶色のビーズクッションベッドと青いパターン入りのドッグベッドの近くでリラックスしている状態。家族とともに室内で過ごしている",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1myHxFlTKGzPIExv4Q1QjDqHlMEUt1If6&sz=w2000",
+      "link": "https://drive.google.com/file/d/1myHxFlTKGzPIExv4Q1QjDqHlMEUt1If6/view"
+    }
+  },
+  {
     "id": "1788701833345-9307",
     "date": "2026-09-06",
     "time": "22:37",

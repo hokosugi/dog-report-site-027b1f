@@ -1,5 +1,117 @@
 [
   {
+    "id": "1788857454983-4614",
+    "date": "2026-09-08",
+    "time": "17:50",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこのみ。大雨の中、排泄に時間がかかった",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": null,
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "うんちは出なかった。悪天候（大雨）の影響あり",
+    "media": null
+  },
+  {
+    "id": "1788846259001-6111",
+    "date": "2026-09-08",
+    "time": "14:44",
+    "type": "elimination",
+    "recorder": "リュウ",
+    "summary": "おしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1788838008749-1947",
+    "date": "2026-09-08",
+    "time": "12:26",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "龍を起こしに行った",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "龍を起こしに行った"
+    },
+    "note": "龍が寝ていたと思われます",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1LvmlB-PEo2T7TIik8Pe2XD3QlfH2V6zQ/preview",
+      "link": "https://drive.google.com/file/d/1LvmlB-PEo2T7TIik8Pe2XD3QlfH2V6zQ/view?media=video"
+    }
+  },
+  {
+    "id": "1788837657024-3713",
+    "date": "2026-09-08",
+    "time": "12:20",
+    "type": "health",
+    "recorder": "母",
+    "summary": "左上奥歯が抜けた",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": false,
+      "medication": "",
+      "symptom": "左の上奥歯が抜けた",
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "左の上奥歯が1本抜けました",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1Zo8MNf72yGHuSHT9KFHLgS8fC3JhyOQM/preview",
+      "link": "https://drive.google.com/file/d/1Zo8MNf72yGHuSHT9KFHLgS8fC3JhyOQM/view?media=video"
+    }
+  },
+  {
+    "id": "1788813453905-7599",
+    "date": "2026-09-08",
+    "time": "05:37",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩で排泄、途中おもらしあり",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中におしっこ、うんちをしたが、その直後におもらしがあった",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/18HdAD3f179hwoMkAhwhUZSPy2uHO_w9u/preview",
+      "link": "https://drive.google.com/file/d/18HdAD3f179hwoMkAhwhUZSPy2uHO_w9u/view?media=video"
+    }
+  },
+  {
     "id": "1788782409150-7376",
     "date": "2026-09-07",
     "time": "21:00",
@@ -3465,6 +3577,28 @@
       "type": "image",
       "file": "https://drive.google.com/thumbnail?id=1h_vB0RTxW50qtqHqzI-Q0yxP9kkJDrEI&sz=w2000",
       "link": "https://drive.google.com/file/d/1h_vB0RTxW50qtqHqzI-Q0yxP9kkJDrEI/view"
+    }
+  },
+  {
+    "id": "1788821151477-9101",
+    "date": "2026-08-13",
+    "time": null,
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "泰希が帰宅時に愛犬と再会、赤いハーネスを着けて抱っこしている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "家族の泰希が帰宅し、愛犬を抱っこして再会している様子。犬は赤いハーネスを装着している。"
+    },
+    "note": "お盆に泰希が帰ってきた時の写真。愛犬は赤いハーネス（格子柄）を着けており、元気そうな様子。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1eZAOeglogU6tt-kso-YLWZo-ohqYgr0p&sz=w2000",
+      "link": "https://drive.google.com/file/d/1eZAOeglogU6tt-kso-YLWZo-ohqYgr0p/view"
     }
   }
 ]

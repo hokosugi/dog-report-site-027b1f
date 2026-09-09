@@ -1,5 +1,71 @@
 [
   {
+    "id": "1788925591239-9301",
+    "date": "2026-09-09",
+    "time": "12:46",
+    "type": "elimination",
+    "recorder": "リュウ",
+    "summary": "おしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1788898265736-6440",
+    "date": "2026-09-09",
+    "time": "05:11",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっことうんちをしっかり排泄",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝の散歩中に両方を排泄。うんちはしっかりした状態。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1WYzYrqH406cXCD6W05QM55AReAf9aCuW&sz=w2000",
+      "link": "https://drive.google.com/file/d/1WYzYrqH406cXCD6W05QM55AReAf9aCuW/view"
+    }
+  },
+  {
+    "id": "1788911339042-2103",
+    "date": "2026-09-08",
+    "time": "21:00",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "昨日の夜、ソファで寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "夜間、ソファの上で寝ている状態"
+    },
+    "note": "音声では内容が不明瞭だったため、写真から愛犬が夜間にソファで休息している様子を記録",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1nH_80kTSThXMuKXJZm08xg_WCDuAlcj5&sz=w2000",
+      "link": "https://drive.google.com/file/d/1nH_80kTSThXMuKXJZm08xg_WCDuAlcj5/view"
+    }
+  },
+  {
     "id": "1788857454983-4614",
     "date": "2026-09-08",
     "time": "17:50",

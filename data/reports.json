@@ -1,5 +1,28 @@
 [
   {
+    "id": "1788947676343-5833",
+    "date": "2026-09-09",
+    "time": "18:54",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "何かに怖がる様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "不安",
+      "trigger": ""
+    },
+    "play_other": null,
+    "note": "入力内容が不明瞭でしたが、恐怖反応と判断しました",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1tII8MEInnLlsvvZegxqm7a8woyZ7SmYw/preview",
+      "link": "https://drive.google.com/file/d/1tII8MEInnLlsvvZegxqm7a8woyZ7SmYw/view?media=video"
+    }
+  },
+  {
     "id": "1788925591239-9301",
     "date": "2026-09-09",
     "time": "12:46",

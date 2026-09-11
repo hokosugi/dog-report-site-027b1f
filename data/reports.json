@@ -1,5 +1,136 @@
 [
   {
+    "id": "1789092183646-6221",
+    "date": "2026-09-11",
+    "time": "11:03",
+    "type": "play_other",
+    "recorder": "リュウ",
+    "summary": "新しい寝床（洗濯かご）でくつろいでいる",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "新しい寝床として洗濯かごを導入。愛犬が洗濯かごの中で快適そうにくつろいでいる。"
+    },
+    "note": "洗濯かごを新しい寝床として使用。衣類が入った状態でリラックスしている様子。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1kk1srL56SPwHxuHBwcnooiWzVso9_x1p&sz=w2000",
+      "link": "https://drive.google.com/file/d/1kk1srL56SPwHxuHBwcnooiWzVso9_x1p/view"
+    }
+  },
+  {
+    "id": "1789092152050-5709",
+    "date": "2026-09-11",
+    "time": "11:02",
+    "type": "play_other",
+    "recorder": "リュウ",
+    "summary": "新しい寝床（洗濯かごが新しいベッドに）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "新しい寝床として洗濯かごを利用。衣類が敷かれている。"
+    },
+    "note": "愛犬が白いプラスチック製の洗濯かごを新しい寝床として使用している様子。衣類が敷かれており、快適そうに過ごしている。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1W2F28urdRP-YrwE9BWpo9R9fiWzJxFDj&sz=w2000",
+      "link": "https://drive.google.com/file/d/1W2F28urdRP-YrwE9BWpo9R9fiWzJxFDj/view"
+    }
+  },
+  {
+    "id": "1789089333280-2608",
+    "date": "2026-09-11",
+    "time": "10:16",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "帰宅後、姿を全く表さない状態",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "飼い主の帰宅時"
+    },
+    "play_other": null,
+    "note": "帰宅したが、ふうちゃんが姿を見せない。隠れているか、体調不良の可能性も考えられる。",
+    "media": null
+  },
+  {
+    "id": "1789078908981-2861",
+    "date": "2026-09-11",
+    "time": "07:22",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "愛犬の可愛い角度をカメラに収める",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "愛犬がソファでリラックスしている様子をカメラに収めた。正面から見た角度が特に可愛いと評価。"
+    },
+    "note": "こっちの角度の方が可愛いとのコメント。愛犬がソファでくつろいでいる様子を撮影した記録。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1FvRwJznVQUttm-SvLLkpd5m9QGtbtvAO&sz=w2000",
+      "link": "https://drive.google.com/file/d/1FvRwJznVQUttm-SvLLkpd5m9QGtbtvAO/view"
+    }
+  },
+  {
+    "id": "1789078873355-4781",
+    "date": "2026-09-11",
+    "time": "07:21",
+    "type": "health",
+    "recorder": "父",
+    "summary": "病み上がりのふうちゃん、回復途中",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": false,
+      "medication": "",
+      "symptom": "病み上がり",
+      "vet_name": ""
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "病気からの回復期。写真から元気な表情が見られる",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1vZvLJEwm6HKvAqFUpVXgHiNdC7Rnd2sb&sz=w2000",
+      "link": "https://drive.google.com/file/d/1vZvLJEwm6HKvAqFUpVXgHiNdC7Rnd2sb/view"
+    }
+  },
+  {
+    "id": "1789073514585-5726",
+    "date": "2026-09-11",
+    "time": "05:52",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっこのみ",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": null,
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
     "id": "1789041859464-8916",
     "date": "2026-09-10",
     "time": "21:04",

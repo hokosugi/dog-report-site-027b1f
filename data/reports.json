@@ -1,5 +1,25 @@
 [
   {
+    "id": "1789162663670-3051",
+    "date": "2026-09-12",
+    "time": "06:37",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
     "id": "1789092183646-6221",
     "date": "2026-09-11",
     "time": "11:03",

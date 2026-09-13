@@ -1,5 +1,135 @@
 [
   {
+    "id": "1789270434633-4093",
+    "date": "2026-09-13",
+    "time": "12:46",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ソファから着地する瞬間をキャッチ",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファから着地する瞬間"
+    },
+    "note": "音声は「着地」のみで内容が不明瞭。写真からはソファから床に着地しようとしている様子が見られた。遊びや日常の一コマと判断。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1xQ-ZP7-mnOLRywucTG6Du2QmfUl6sdvH&sz=w2000",
+      "link": "https://drive.google.com/file/d/1xQ-ZP7-mnOLRywucTG6Du2QmfUl6sdvH/view"
+    }
+  },
+  {
+    "id": "1789270385961-2642",
+    "date": "2026-09-13",
+    "time": "12:33",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ベッドから着地しようとしている様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ベッドから降りようとしている、着地前の準備姿勢"
+    },
+    "note": "音声「もうすぐ着地」。写真から愛犬がベッドの端に座っており、これからジャンプして着地しようとしている動きが捉えられている。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1gs9Mr7ZrlYpbSwrwotpMWqjMjQOP_2DA&sz=w2000",
+      "link": "https://drive.google.com/file/d/1gs9Mr7ZrlYpbSwrwotpMWqjMjQOP_2DA/view"
+    }
+  },
+  {
+    "id": "1789267054634-1924",
+    "date": "2026-09-13",
+    "time": "12:01",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ベッドと床の間で寛ぐ愛犬、定位置のような体勢",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ベッドと床の間のスペースで寛ぐ。定位置のような習慣的な姿勢。"
+    },
+    "note": "音声内容『結局こういう体勢になる』と、愛犬がベッドの端と床の間のスペースで寛いでいる写真から、愛犬が好む落ち着きの場所で過ごしている様子と判断しました。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1QA8BjZjLfdGuNOt_AgyAQZxKXmwKSjrp&sz=w2000",
+      "link": "https://drive.google.com/file/d/1QA8BjZjLfdGuNOt_AgyAQZxKXmwKSjrp/view"
+    }
+  },
+  {
+    "id": "1789267015598-3705",
+    "date": "2026-09-13",
+    "time": "11:37",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "青いベッドとクッションで、ぐっすり寝ている贅沢な寝方",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "愛犬が青いペットベッドをクッションベッドの上に乗せた贅沢な環境でくつろいでいる。二重の寝床で快適に眠っている状況。"
+    },
+    "note": "愛犬が青いペットベッドをクッションの上に置いて、その中でくつろいでいる様子。居心地の良い寝床で快適に休んでいます。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1jOzwKR4cxecVumScDNZlqGDNSI568kuW&sz=w2000",
+      "link": "https://drive.google.com/file/d/1jOzwKR4cxecVumScDNZlqGDNSI568kuW/view"
+    }
+  },
+  {
+    "id": "1789251911091-9873",
+    "date": "2026-09-13",
+    "time": "07:25",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でうんちのみ、おしっこは未確認",
+    "meal": null,
+    "elimination": {
+      "kind": "うんち",
+      "stool_condition": "正常",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中にうんちのみを確認。おしっこは見られなかったが、同時にした可能性あり。下痢止め薬、ディバスターの副作用である黒化は見られなかった。",
+    "media": null
+  },
+  {
+    "id": "1789251833224-7158",
+    "date": "2026-09-13",
+    "time": "07:24",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "部屋中を走り回った後、疲れてベッドで寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "部屋中を走り回って遊んだ後、疲れてベッドで寝ている様子。"
+    },
+    "note": "室内で活発に遊んだ後、お疲れモード。現在はベッドで熟睡中。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=10vNQUiPPjsTLfxSx0dGPIDo6CNXwSsBZ&sz=w2000",
+      "link": "https://drive.google.com/file/d/10vNQUiPPjsTLfxSx0dGPIDo6CNXwSsBZ/view"
+    }
+  },
+  {
     "id": "1789205436414-3483",
     "date": "2026-09-12",
     "time": "18:42",
@@ -44,6 +174,32 @@
     "play_other": null,
     "note": "",
     "media": null
+  },
+  {
+    "id": "1789251965252-9001",
+    "date": "2026-09-12",
+    "time": null,
+    "type": "health",
+    "recorder": "父",
+    "summary": "中西動物病院で胃腸炎と診断、複数の薬を処方された",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": true,
+      "medication": "ディアバスター、サイネオミックス",
+      "symptom": "胃腸炎",
+      "vet_name": "中西動物病院"
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "昨日の受診。処方薬：ディアバスター（下痢止め、市販品でもある）、サイネオミックス（整腸剤）。音声が不明瞭な部分があるため、処方内容の詳細は写真の処方箋に基づいて確認を推奨。ディアバスターは市販で購入可能。次回の参考に。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1aduPfnZ-b09j957sMIOzBMrqaD4wtH40&sz=w2000",
+      "link": "https://drive.google.com/file/d/1aduPfnZ-b09j957sMIOzBMrqaD4wtH40/view"
+    }
   },
   {
     "id": "1789092152050-5709",

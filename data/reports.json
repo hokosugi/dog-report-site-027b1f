@@ -1,5 +1,69 @@
 [
   {
+    "id": "1789353920077-3529",
+    "date": "2026-09-14",
+    "time": "12:54",
+    "type": "walk",
+    "recorder": "母",
+    "summary": "散歩に連れ出すも嫌がり気味。畳屋さんの跡地で排泄",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "畳屋さんの跡地",
+      "condition": "疲れ気味",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄があった。散歩への抵抗が見られた",
+    "media": null
+  },
+  {
+    "id": "1789333003157-3358",
+    "date": "2026-09-14",
+    "time": "05:57",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "朝の散歩、いこいの広場で元気に歩いた",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "いこいの広場",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "おしっこ・うんち両方とも良好。いこいの広場での散歩が新しいコース",
+    "media": null
+  },
+  {
+    "id": "1789333304228-6911",
+    "date": "2026-09-13",
+    "time": "20:00",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "昨夜の排泄記録、うんちとおしっこ両方",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "昨夜の散歩時にうんち、その後夜間におしっこ",
+    "media": null
+  },
+  {
     "id": "1789270434633-4093",
     "date": "2026-09-13",
     "time": "12:46",

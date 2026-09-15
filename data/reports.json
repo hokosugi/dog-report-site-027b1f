@@ -1,5 +1,73 @@
 [
   {
+    "id": "1789437264143-3745",
+    "date": "2026-09-15",
+    "time": "11:06",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でうんこ・おしっこ、良好で大きめ",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝の散歩中に排泄。うんこは結構大きめとのこと。",
+    "media": null
+  },
+  {
+    "id": "1789436835047-3136",
+    "date": "2026-09-15",
+    "time": "10:47",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ソファで気持ちよさそうに寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファで寝ている"
+    },
+    "note": "愛犬がソファで休息中。リラックスした状態で眠っている様子",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=17yVLMqCtaJKSNmMCMbeLRyFeNXx7crOn&sz=w2000",
+      "link": "https://drive.google.com/file/d/17yVLMqCtaJKSNmMCMbeLRyFeNXx7crOn/view"
+    }
+  },
+  {
+    "id": "1789437991847-1072",
+    "date": "2026-09-14",
+    "time": "17:00",
+    "type": "health",
+    "recorder": "父",
+    "summary": "昨日夕方に下痢2回、下痢止め服用中だが効果限定的、給餌量削減して様子観察",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": false,
+      "medication": "下痢止め",
+      "symptom": "下痢",
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "下痢の原因は不明だが寄生虫は陰性。下痢止めを服用しているが、それでも下痢になっているため注視が必要。餌の量が増えていたため、給餌量を控えめにして様子を見ることにした。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1yVByQNXKzgj-qKK13i5e3gEJnDD733Fe&sz=w2000",
+      "link": "https://drive.google.com/file/d/1yVByQNXKzgj-qKK13i5e3gEJnDD733Fe/view"
+    }
+  },
+  {
     "id": "1789353920077-3529",
     "date": "2026-09-14",
     "time": "12:54",

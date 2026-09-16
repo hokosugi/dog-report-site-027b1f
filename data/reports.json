@@ -1,5 +1,47 @@
 [
   {
+    "id": "1789550327416-1541",
+    "date": "2026-09-16",
+    "time": "18:19",
+    "type": "health",
+    "recorder": "父",
+    "summary": "体重3.9kg、先週の下痢嘔吐から回復傾向で順調",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": 3.9,
+      "hospital_visit": false,
+      "medication": "",
+      "symptom": "先週：下痢、嘔吐",
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "先週下痢と嘔吐があったが現在は回復中。体重増加は抑制されているが健康状態は良好。",
+    "media": null
+  },
+  {
+    "id": "1789505997346-3932",
+    "date": "2026-09-16",
+    "time": "18:18",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩でおしっことうんち、状態良好",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄。すぐに完了した模様",
+    "media": null
+  },
+  {
     "id": "1789533933353-1128",
     "date": "2026-09-16",
     "time": "13:45",

@@ -1,5 +1,67 @@
 [
   {
+    "id": "1789533933353-1128",
+    "date": "2026-09-16",
+    "time": "13:45",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこのみ。うんち兆候あり、散歩で促したが未排便",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "うんちの兆候があったため散歩を長めにしたが、結局おしっこだけで終わった",
+    "media": null
+  },
+  {
+    "id": "1789505868776-2231",
+    "date": "2026-09-16",
+    "time": "05:58",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩中、初めておしっこニ回した。うんちはしなかった。",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝の散歩時に排泄。初めておしっこ2回の排尿行動を確認",
+    "media": null
+  },
+  {
+    "id": "1789463389259-2158",
+    "date": "2026-09-15",
+    "time": "19:58",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "まめ吉と久しぶりに再会。ふうちゃんは喜んだが相手は警戒気味",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ふうちゃんとまめ吉が久しぶりに会った。ふうちゃんは嬉しそうだったが、まめ吉は嬉しくない様子だった"
+    },
+    "note": "ふうちゃんがまめ吉との再会で喜んでいるが、まめ吉は積極的ではない様子とのこと",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1CvKeVR2Z8axbq7l2kt0luRy0WicubJx_/preview",
+      "link": "https://drive.google.com/file/d/1CvKeVR2Z8axbq7l2kt0luRy0WicubJx_/view?media=video"
+    }
+  },
+  {
     "id": "1789437264143-3745",
     "date": "2026-09-15",
     "time": "11:06",

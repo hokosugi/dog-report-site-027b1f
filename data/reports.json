@@ -1,5 +1,49 @@
 [
   {
+    "id": "1789605492425-4796",
+    "date": "2026-09-17",
+    "time": "20:22",
+    "type": "elimination",
+    "recorder": "ゆきこ",
+    "summary": "ふうちゃん、おしっこ1回",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "音声から『うれション』と聞き取れたため、おしっこと判断しました。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1WEWUetXKtmYF-QPa2zK_N4klY0-tVVyW&sz=w2000",
+      "link": "https://drive.google.com/file/d/1WEWUetXKtmYF-QPa2zK_N4klY0-tVVyW/view"
+    }
+  },
+  {
+    "id": "1789636751123-4250",
+    "date": "2026-09-17",
+    "time": "18:19",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩中にしっかり排泄",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩時に排泄",
+    "media": null
+  },
+  {
     "id": "1789616420126-7036",
     "date": "2026-09-17",
     "time": "12:40",

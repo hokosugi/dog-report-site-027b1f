@@ -1,5 +1,25 @@
 [
   {
+    "id": "1789715550950-9647",
+    "date": "2026-09-18",
+    "time": "12:00",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "お昼におしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
     "id": "1789686848780-2366",
     "date": "2026-09-18",
     "time": "08:14",
@@ -20,6 +40,26 @@
       "file": "https://drive.google.com/file/d/1wKWar9lDeR_0cgDWLSg5aOTGebuPC3gS/preview",
       "link": "https://drive.google.com/file/d/1wKWar9lDeR_0cgDWLSg5aOTGebuPC3gS/view?media=video"
     }
+  },
+  {
+    "id": "1789713280541-3680",
+    "date": "2026-09-18",
+    "time": null,
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっこ、うんちをしました",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中の排泄記録。具体的な便の状態は不明瞭のため正常と推定",
+    "media": null
   },
   {
     "id": "1789605492425-4796",

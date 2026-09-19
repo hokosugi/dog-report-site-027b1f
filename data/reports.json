@@ -1,5 +1,47 @@
 [
   {
+    "id": "1789763026872-5929",
+    "date": "2026-09-19",
+    "time": "05:26",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "しゃっくり後に大運動会で元気に遊ぶ",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "しゃっくりが止まった後、いつもの大運動会で遊んだ"
+    },
+    "note": "しゃっくりが止まった後、いつもの大運動会で活発に活動",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1KALueKQe25GeGRVByT79a89ZZCO1ku4R/preview",
+      "link": "https://drive.google.com/file/d/1KALueKQe25GeGRVByT79a89ZZCO1ku4R/view?media=video"
+    }
+  },
+  {
+    "id": "1789762987386-8167",
+    "date": "2026-09-19",
+    "time": "05:23",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっこうんち、両方良好に排泄",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "食後にしゃっくりのような動作が見られました。毎日早い時間の排泄に飼い主が驚いているとのこと。",
+    "media": null
+  },
+  {
     "id": "1789715550950-9647",
     "date": "2026-09-18",
     "time": "12:00",

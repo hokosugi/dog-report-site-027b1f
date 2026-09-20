@@ -1,5 +1,113 @@
 [
   {
+    "id": "1789873878770-6548",
+    "date": "2026-09-20",
+    "time": "12:13",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1789854428673-2036",
+    "date": "2026-09-20",
+    "time": "07:49",
+    "type": "health",
+    "recorder": "父",
+    "summary": "お腹の調子が回復し、下痢止めの薬を中止することにした",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": false,
+      "medication": "下痢止め",
+      "symptom": "下痢・吐き気（改善済み）",
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "下痢と吐き気が改善されたため、下痢止めの薬の投与を終了することを決定した",
+    "media": null
+  },
+  {
+    "id": "1789854160785-2229",
+    "date": "2026-09-20",
+    "time": "07:01",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "いたずらをしたためゲージに入れた",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "朝のいたずら"
+    },
+    "play_other": null,
+    "note": "朝の早い時間にいたずら行動があり、ゲージに戻して対応した",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1D9tYQWKDqnWM8Szcv4QwhpwFDmFgVxYu&sz=w2000",
+      "link": "https://drive.google.com/file/d/1D9tYQWKDqnWM8Szcv4QwhpwFDmFgVxYu/view"
+    }
+  },
+  {
+    "id": "1789854106845-4442",
+    "date": "2026-09-20",
+    "time": "06:42",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "机の上に乗って悪さをしていた。机上で伏せ姿勢だったが、撮影時は立ち上がっている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "留守番中、机の上に乗って行動。本来禁止されている場所と思われる"
+    },
+    "play_other": null,
+    "note": "机の上で伏せをしていたが、その後何か悪いことをしていた。禁止エリアへの侵入・イタズラの可能性",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1Wbkym_lymfZmXsNDWvtUyXBH1g1VtIyf&sz=w2000",
+      "link": "https://drive.google.com/file/d/1Wbkym_lymfZmXsNDWvtUyXBH1g1VtIyf/view"
+    }
+  },
+  {
+    "id": "1789851992041-3169",
+    "date": "2026-09-20",
+    "time": "06:07",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩で排泄、2分で完了",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "場所は阪内川いこい広場での排泄",
+    "media": null
+  },
+  {
     "id": "1789816988219-1365",
     "date": "2026-09-19",
     "time": "20:26",

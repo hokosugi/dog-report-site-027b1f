@@ -1,5 +1,47 @@
 [
   {
+    "id": "1790068026249-7845",
+    "date": "2026-09-22",
+    "time": "18:07",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩でおしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩時に排泄",
+    "media": null
+  },
+  {
+    "id": "1790056172019-9610",
+    "date": "2026-09-22",
+    "time": "14:50",
+    "type": "play_other",
+    "recorder": "ゆきこ",
+    "summary": "おばあちゃんちで小さなベッドがお気に入り、頭とお尻が落ちている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "おばあちゃんちで小さなベッドを気に入り、寝ている。体が大きいため頭とお尻がはみ出ている。"
+    },
+    "note": "小さいけどふわふわのベッド！風ちゃんよく知ってるね！",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1LC5iludl9WgHAGANH4cV8YQp6FENAJrr&sz=w2000",
+      "link": "https://drive.google.com/file/d/1LC5iludl9WgHAGANH4cV8YQp6FENAJrr/view"
+    }
+  },
+  {
     "id": "1790028565771-7861",
     "date": "2026-09-22",
     "time": "07:10",

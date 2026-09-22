@@ -1,5 +1,25 @@
 [
   {
+    "id": "1790028565771-7861",
+    "date": "2026-09-22",
+    "time": "07:10",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっこ＆うんち、2回目は軟便気味",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "軟便",
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "早めに起床。うんち2回、2回目がやや軟便。昨日の夕食量（カップすりきり）が多かった可能性を指摘。様子観察予定。",
+    "media": null
+  },
+  {
     "id": "1789988675465-4352",
     "date": "2026-09-21",
     "time": "20:05",

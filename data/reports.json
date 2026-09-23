@@ -1,5 +1,47 @@
 [
   {
+    "id": "1790115580593-9391",
+    "date": "2026-09-23",
+    "time": "07:19",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "仰向けで寝転ぶ姿勢が相変わらず素晴らしい",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "仰向けで寝ている姿"
+    },
+    "note": "愛犬が仰向けで気持ちよさそうに寝ている様子。音声は『相変わらずすごいです』との発話で、この寝姿の可愛らしさを表現しているものと推測",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1Co58dvchpy58kq2NY60ae809ijt2vM8K&sz=w2000",
+      "link": "https://drive.google.com/file/d/1Co58dvchpy58kq2NY60ae809ijt2vM8K/view"
+    }
+  },
+  {
+    "id": "1790124100765-8402",
+    "date": "2026-09-23",
+    "time": "04:30",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝4時半のおしっことうんち、ちゃんと排泄できた",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝早い散歩時に排泄",
+    "media": null
+  },
+  {
     "id": "1790068026249-7845",
     "date": "2026-09-22",
     "time": "18:07",

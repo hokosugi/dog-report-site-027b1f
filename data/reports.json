@@ -1,5 +1,177 @@
 [
   {
+    "id": "1790202443057-8969",
+    "date": "2026-09-24",
+    "time": "19:49",
+    "type": "play_other",
+    "recorder": "ゆきこ",
+    "summary": "おばあちゃんの家で箱に入ってプレゼント風ちゃんになりました",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "おばあちゃんの家で箱の中に入ってプレゼント役になるふうちゃん。赤いハーネスを付けた姿で、楽しそうに箱の中に収まっています。"
+    },
+    "note": "音声内容「おばあちゃんとこで箱プレゼント荒川の桃ならぬ荒川の風ちゃん」から、おばあちゃんの家で箱に入った遊びの様子。写真にはふうちゃんが赤いハーネスを付けて箱の中に入っている様子が映っています。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1dBZ2SvrmIV8qPZvfPuwKawLabjvD2gzZ&sz=w2000",
+      "link": "https://drive.google.com/file/d/1dBZ2SvrmIV8qPZvfPuwKawLabjvD2gzZ/view"
+    }
+  },
+  {
+    "id": "1790236075035-3734",
+    "date": "2026-09-24",
+    "time": "16:49",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "滝下家でおしっこをしました",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
+    "id": "1790236014174-1751",
+    "date": "2026-09-24",
+    "time": "16:47",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "まめ吉に会って大喜びした",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ふうちゃんはまめ吉を見て大喜び。まめ吉は相変わらずクールな態度だった。"
+    },
+    "note": "ふうちゃんがまめ吉を見て喜んでいた。まめ吉はクールな態度だった。",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1vbG-talsLe25nfNlz9-xDXQi2TVO-qzJ/preview",
+      "link": "https://drive.google.com/file/d/1vbG-talsLe25nfNlz9-xDXQi2TVO-qzJ/view?media=video"
+    }
+  },
+  {
+    "id": "1790227323058-3590",
+    "date": "2026-09-24",
+    "time": "14:22",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "庭で排尿。鼻をくんくん鳴らしたため散歩へ",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩時に庭でおしっこをした。鼻をくんくん鳴らしていたため散歩に出かけた",
+    "media": null
+  },
+  {
+    "id": "1790220865271-6408",
+    "date": "2026-09-24",
+    "time": "12:34",
+    "type": "walk",
+    "recorder": "母",
+    "summary": "公園で15分散歩、葉っぱを加えて遊びながら歩いた",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": 15,
+      "distance_km": null,
+      "place": "公園",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中におしっこはしなかった。葉っぱを加えながら歩いていた。",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1gh2dUh9LlnWv265QgpCv-n5gdPScVCcD/preview",
+      "link": "https://drive.google.com/file/d/1gh2dUh9LlnWv265QgpCv-n5gdPScVCcD/view?media=video"
+    }
+  },
+  {
+    "id": "1790197155075-5389",
+    "date": "2026-09-24",
+    "time": "06:25",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "夜間に父の近くに来たがる行動が増加している",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "父が2階で寝ていることを察知し、夜間に父のところへ来たがる"
+    },
+    "play_other": null,
+    "note": "父が2階で寝ていることを察して、夜間に父のところへ催促して来たがるようになった。解決策を検討中。",
+    "media": null
+  },
+  {
+    "id": "1790197128452-3513",
+    "date": "2026-09-24",
+    "time": "05:59",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "初めてお手をしました",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "しつけ・訓練"
+    },
+    "play_other": null,
+    "note": "新しい芸を習得した",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1oamsEulDB2qwGrQfh5qowTXBgpB0ljRZ/preview",
+      "link": "https://drive.google.com/file/d/1oamsEulDB2qwGrQfh5qowTXBgpB0ljRZ/view?media=video"
+    }
+  },
+  {
+    "id": "1790196020342-5103",
+    "date": "2026-09-24",
+    "time": "05:40",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩中にうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "うんち",
+      "stool_condition": "正常",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝の散歩のタイミングで排泄",
+    "media": null
+  },
+  {
     "id": "1790115580593-9391",
     "date": "2026-09-23",
     "time": "07:19",

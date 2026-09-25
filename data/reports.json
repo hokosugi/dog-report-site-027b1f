@@ -1,5 +1,47 @@
 [
   {
+    "id": "1790341497386-4054",
+    "date": "2026-09-25",
+    "time": "22:05",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "動きが素早すぎてカメラで追えない様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "動作が早すぎてカメラで追いかけることができない"
+    },
+    "note": "飼い主がカメラで追いかけられないほど活発に動いている状態",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1j4cfji3ARp-J6ywkcZE4E41wvKjuXKNR/preview",
+      "link": "https://drive.google.com/file/d/1j4cfji3ARp-J6ywkcZE4E41wvKjuXKNR/view?media=video"
+    }
+  },
+  {
+    "id": "1790285173049-2443",
+    "date": "2026-09-25",
+    "time": "01:30",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夜中午前1時半から散歩、軟便を2回",
+    "meal": null,
+    "elimination": {
+      "kind": "うんち",
+      "stool_condition": "軟便",
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "夜中に起こされて午前1時半から2回散歩。その後下痢止めの薬を投与。",
+    "media": null
+  },
+  {
     "id": "1790202443057-8969",
     "date": "2026-09-24",
     "time": "19:49",

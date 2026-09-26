@@ -1,5 +1,65 @@
 [
   {
+    "id": "1790380067100-6897",
+    "date": "2026-09-26",
+    "time": "08:48",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "女の子らしくない格好で寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "女の子なのに珍しい格好で寝ている"
+    },
+    "note": "ユーザーが愛犬の寝ている姿が珍しい・かわいらしいと感じている様子。具体的な内容は写真に依存",
+    "media": null
+  },
+  {
+    "id": "1790378861294-1685",
+    "date": "2026-09-26",
+    "time": "08:28",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっことうんち、うんちは少量",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄。うんちの量が少なかったとのこと",
+    "media": null
+  },
+  {
+    "id": "1790375536191-1140",
+    "date": "2026-09-26",
+    "time": "07:32",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "お腹の上で気持ちよく寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "飼い主のお腹の上で安心して寝ている。目を閉じてリラックスしている状態。"
+    },
+    "note": "飼い主のお腹の上でリラックスして寝ている様子",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1VGl-Q_rby4FmEfO1vR_q3C3nAm0PP_VS&sz=w2000",
+      "link": "https://drive.google.com/file/d/1VGl-Q_rby4FmEfO1vR_q3C3nAm0PP_VS/view"
+    }
+  },
+  {
     "id": "1790341497386-4054",
     "date": "2026-09-25",
     "time": "22:05",
@@ -39,6 +99,26 @@
     "behavior": null,
     "play_other": null,
     "note": "夜中に起こされて午前1時半から2回散歩。その後下痢止めの薬を投与。",
+    "media": null
+  },
+  {
+    "id": "1790369974918-9300",
+    "date": "2026-09-25",
+    "time": null,
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "昨日夕方、おしっことうんちを正常に排泄",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄。いつもと同じ状態。",
     "media": null
   },
   {

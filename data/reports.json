@@ -1,5 +1,27 @@
 [
   {
+    "id": "1790804915347-4917",
+    "date": "2026-10-02",
+    "time": "08:00",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "朝の散歩、20分で公園コースを歩行、おしっことうんちを済ませた",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": 20,
+      "distance_km": null,
+      "place": "公園",
+      "condition": "普通",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "排泄もあったが、walk として記録。20分が犬の適切な散歩時間の目安とのこと。これ以上は疲れるため、20分程度が限度と飼い主判断。",
+    "media": null
+  },
+  {
     "id": "1790835015977-6526",
     "date": "2026-10-01",
     "time": "15:10",

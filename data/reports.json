@@ -1,20 +1,44 @@
 [
   {
-    "id": "1791095957121-9319",
-    "date": "2026-10-04",
-    "time": "15:39",
+    "id": "1791162589380-2943",
+    "date": "2026-10-05",
+    "time": "10:10",
     "type": "play_other",
-    "recorder": "母",
-    "summary": "ヴィソンでお出かけ、帰宅後に疲れて寝ている",
+    "recorder": "父",
+    "summary": "システムテスト中",
     "meal": null,
     "elimination": null,
     "walk": null,
     "health": null,
     "behavior": null,
     "play_other": {
-      "description": "ヴィソンに行ってきた。疲れて寝ている"
+      "description": "サーバーを変えてみたのでそのテスト"
     },
-    "note": "ふうちゃんがヴィソンへのお出かけで疲れた様子。現在寝ている状態。",
+    "note": "サーバー変更に伴うテスト実施。愛犬との具体的な記録内容ではありません。",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1791162589380-2943?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
+    "id": "1791162485706-4720",
+    "date": "2026-10-05",
+    "time": "10:08",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でうんちとおしっこ、絶好調",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "昨日2回うんち。本日も好調に推移。",
     "media": null
   },
   {
@@ -23,7 +47,7 @@
     "time": "15:02",
     "type": "play_other",
     "recorder": "母",
-    "summary": "動画記録",
+    "summary": "初めてヴィソンに行った、いつもより静かだった",
     "meal": null,
     "elimination": null,
     "walk": null,
@@ -38,24 +62,6 @@
       "file": "https://drive.google.com/file/d/1rmQmN9liOyTqxAE5ubyRnBUg_NS6ZXbe/preview",
       "link": "https://drive.google.com/file/d/1rmQmN9liOyTqxAE5ubyRnBUg_NS6ZXbe/view?media=video"
     }
-  },
-  {
-    "id": "1791093664527-2523",
-    "date": "2026-10-04",
-    "time": "15:01",
-    "type": "play_other",
-    "recorder": "母",
-    "summary": "初めてヴィソンに行った、いつもより静かだった",
-    "meal": null,
-    "elimination": null,
-    "walk": null,
-    "health": null,
-    "behavior": null,
-    "play_other": {
-      "description": "初めてヴィソンに行った。いつもより大人しかった"
-    },
-    "note": "ヴィソン（大型商業施設）への初訪問。いつもより落ち着いた様子だったとのこと",
-    "media": null
   },
   {
     "id": "1791063153017-8009",

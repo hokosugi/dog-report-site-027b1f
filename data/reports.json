@@ -1,5 +1,91 @@
 [
   {
+    "id": "1791290134091-8709",
+    "date": "2026-10-06",
+    "time": "21:35",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "昔のエレンの寝姿を思い出す",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "昔よくエレンがこうやって寝ていた"
+    },
+    "note": "過去のエレンの寝ている様子についての回顧。具体的な日時や行動の詳細が不明瞭なため、記録は一般的な思い出として記載。",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1FksupHPvhLChz5yo3Hmagx2n4TQEP3aL/preview",
+      "link": "https://drive.google.com/file/d/1FksupHPvhLChz5yo3Hmagx2n4TQEP3aL/view?media=video"
+    }
+  },
+  {
+    "id": "1791289286816-7807",
+    "date": "2026-10-06",
+    "time": "21:22",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "夕方の散歩で排泄（うんち2回・おしっこ）",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": null,
+      "condition": null,
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中にうんちが2回、おしっこもあり",
+    "media": null
+  },
+  {
+    "id": "1791270973471-4342",
+    "date": "2026-10-06",
+    "time": "16:16",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこ2回目",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": null,
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "ふうちゃんが2回目のおしっこをしました",
+    "media": null
+  },
+  {
+    "id": "1791266021876-4801",
+    "date": "2026-10-06",
+    "time": "14:54",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "飼い主のTシャツを喜んで噛んで遊ぶふうちゃん",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "飼い主のTシャツを喜んで噛んでいる"
+    },
+    "note": "飼い主のTシャツを噛んで遊ぶ行動。喜んでいる様子。",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1NFdFvA5O_nqfV0ADWjDotgTEIfk8DNat/preview",
+      "link": "https://drive.google.com/file/d/1NFdFvA5O_nqfV0ADWjDotgTEIfk8DNat/view?media=video"
+    }
+  },
+  {
     "id": "1791199002695-7299",
     "date": "2026-10-05",
     "time": "20:17",

@@ -1,5 +1,63 @@
 [
   {
+    "id": "1791375527471-1536",
+    "date": "2026-10-07",
+    "time": "21:19",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "寝ている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "寝ている"
+    },
+    "note": "特に活動なし、休息中",
+    "media": null
+  },
+  {
+    "id": "1791355453185-2917",
+    "date": "2026-10-07",
+    "time": "18:09",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩中におしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中の排泄記録",
+    "media": null
+  },
+  {
+    "id": "1791354825312-7386",
+    "date": "2026-10-07",
+    "time": "15:33",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
     "id": "1791330876154-9574",
     "date": "2026-10-07",
     "time": "08:54",

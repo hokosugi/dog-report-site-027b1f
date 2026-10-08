@@ -1,5 +1,47 @@
 [
   {
+    "id": "1791411942277-8223",
+    "date": "2026-10-08",
+    "time": "07:26",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩中におしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄を行った",
+    "media": null
+  },
+  {
+    "id": "1791411055378-9722",
+    "date": "2026-10-08",
+    "time": "07:11",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "少し寒いので毛布をかけてくつろいでいる",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "朝の涼しい時間帯に、毛布をかけて過ごしている。犬は穏やかな表情で休息中。"
+    },
+    "note": "愛犬が毛布に包まれてリラックスしている様子。季節の変わり目で冷え込みがあり、快適性を保つための配慮。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1voJAfxHOvfwh9srYTqJP1n_SbTyA_8Xm&sz=w2000",
+      "link": "https://drive.google.com/file/d/1voJAfxHOvfwh9srYTqJP1n_SbTyA_8Xm/view"
+    }
+  },
+  {
     "id": "1791375527471-1536",
     "date": "2026-10-07",
     "time": "21:19",
@@ -16,6 +58,28 @@
     },
     "note": "特に活動なし、休息中",
     "media": null
+  },
+  {
+    "id": "1791411103228-2053",
+    "date": "2026-10-07",
+    "time": "21:00",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "昨日の夜、寝ている様子",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "寝ている"
+    },
+    "note": "内容が不明瞭でした。昨日の夜に寝ている状況と解釈しました。",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1NqndoiohDBFJ8kfsIQQ8W7rFvjNUWX4u/preview",
+      "link": "https://drive.google.com/file/d/1NqndoiohDBFJ8kfsIQQ8W7rFvjNUWX4u/view?media=video"
+    }
   },
   {
     "id": "1791355453185-2917",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "1791495836319-4363",
+    "date": "2026-10-09",
+    "time": "06:44",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "いつものようにしました。だんだん大人になってきてローテーションが組めるようになってきました",
+    "media": null
+  },
+  {
     "id": "1791411942277-8223",
     "date": "2026-10-08",
     "time": "07:26",
@@ -39,6 +59,28 @@
       "type": "image",
       "file": "https://drive.google.com/thumbnail?id=1voJAfxHOvfwh9srYTqJP1n_SbTyA_8Xm&sz=w2000",
       "link": "https://drive.google.com/file/d/1voJAfxHOvfwh9srYTqJP1n_SbTyA_8Xm/view"
+    }
+  },
+  {
+    "id": "1791496297348-3126",
+    "date": "2026-10-08",
+    "time": null,
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "昨日の夜、ベッドで仰向けのかわいい寝姿",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "犬用ベッドの上で仰向けになり、四肢を伸ばしてリラックスした寝ている様子"
+    },
+    "note": "青いベッドの上で仰向けになってリラックスした状態で休んでいました",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1fn2taksuJicspBA0Jqtj13pyyHTPEu_8&sz=w2000",
+      "link": "https://drive.google.com/file/d/1fn2taksuJicspBA0Jqtj13pyyHTPEu_8/view"
     }
   },
   {

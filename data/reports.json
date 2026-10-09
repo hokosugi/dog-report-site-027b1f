@@ -1,5 +1,89 @@
 [
   {
+    "id": "1791548411684-7424",
+    "date": "2026-10-09",
+    "time": "22:17",
+    "type": "health",
+    "recorder": "母",
+    "summary": "体重4.6kg、1週間で100g増加を記録",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": 4.6,
+      "hospital_visit": false,
+      "medication": "",
+      "symptom": "",
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "先週比で100g増。体重管理を継続観察中。",
+    "media": null
+  },
+  {
+    "id": "1791548379635-9514",
+    "date": "2026-10-09",
+    "time": "21:19",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "クッションから落ちても寝続けている",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "クッションから落ちてもまだ寝ている"
+    },
+    "note": "深く寝ており、ちょっとした刺激に反応していない様子",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1632MciLU0UCBCDpSYvP5HsYWNVT3RiUW/preview",
+      "link": "https://drive.google.com/file/d/1632MciLU0UCBCDpSYvP5HsYWNVT3RiUW/view?media=video"
+    }
+  },
+  {
+    "id": "1791535658501-1798",
+    "date": "2026-10-09",
+    "time": "17:47",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩中におしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中の排泄記録",
+    "media": null
+  },
+  {
+    "id": "1791527876017-7171",
+    "date": "2026-10-09",
+    "time": "15:38",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
     "id": "1791495836319-4363",
     "date": "2026-10-09",
     "time": "06:44",

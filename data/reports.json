@@ -1,5 +1,47 @@
 [
   {
+    "id": "1791713882594-5432",
+    "date": "2026-10-11",
+    "time": "19:20",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩中におしっことうんちをした",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中の排泄記録。音声が若干不明瞭でしたが、内容から夕方の散歩時に排泄があったと解釈",
+    "media": null
+  },
+  {
+    "id": "1791703176652-7209",
+    "date": "2026-10-11",
+    "time": "16:19",
+    "type": "health",
+    "recorder": "母",
+    "summary": "フィラリア予防薬を投与",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": false,
+      "medication": "フィラリア予防薬",
+      "symptom": null,
+      "vet_name": null
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "フィラリア予防薬を服用させました",
+    "media": null
+  },
+  {
     "id": "1791686540786-7796",
     "date": "2026-10-11",
     "time": "11:42",

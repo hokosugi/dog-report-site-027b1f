@@ -1,5 +1,48 @@
 [
   {
+    "id": "1791847080999-3324",
+    "date": "2026-10-13",
+    "time": "08:18",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "母が仕事に出かける際、玄関のゲージに入れられた",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "不安",
+      "trigger": "母親の外出時に玄関のゲージに置かれた"
+    },
+    "play_other": null,
+    "note": "ふうちゃんを玄関のゲージに入れる際の記録。分離不安の可能性がある状況。",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1fZfFnmZMMcv15Z4ITRpoGEW5Rmdu4nh4&sz=w2000",
+      "link": "https://drive.google.com/file/d/1fZfFnmZMMcv15Z4ITRpoGEW5Rmdu4nh4/view"
+    }
+  },
+  {
+    "id": "1791764868603-5289",
+    "date": "2026-10-13",
+    "time": "08:08",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩で排泄を済ませた",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄",
+    "media": null
+  },
+  {
     "id": "1791774143460-6736",
     "date": "2026-10-12",
     "time": "13:46",

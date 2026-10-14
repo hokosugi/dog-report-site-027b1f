@@ -1,5 +1,25 @@
 [
   {
+    "id": "1791957985348-1137",
+    "date": "2026-10-14",
+    "time": "16:07",
+    "type": "elimination",
+    "recorder": "母",
+    "summary": "おしっこをした",
+    "meal": null,
+    "elimination": {
+      "kind": "おしっこ",
+      "stool_condition": "",
+      "count": 1
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "",
+    "media": null
+  },
+  {
     "id": "1791887720009-1893",
     "date": "2026-10-14",
     "time": "07:13",

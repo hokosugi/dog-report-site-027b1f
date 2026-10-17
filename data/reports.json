@@ -1,5 +1,25 @@
 [
   {
+    "id": "1792227663696-4547",
+    "date": "2026-10-17",
+    "time": "18:01",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方の散歩でおしっこ・うんち共に出た",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩時にマーキング行動を始めた可能性がある",
+    "media": null
+  },
+  {
     "id": "1792152185136-5204",
     "date": "2026-10-16",
     "time": "21:03",

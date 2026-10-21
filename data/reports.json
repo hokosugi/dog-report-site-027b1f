@@ -1,5 +1,43 @@
 [
   {
+    "id": "1792537800482-8162",
+    "date": "2026-10-21",
+    "time": "08:11",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "朝、玄関のゲージで扇風機をつけてお留守番",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "飼い主の仕事のため、愛犬が玄関のゲージでお留守番。扇風機をつけて暑さ対策をして出かけるとのこと。"
+    },
+    "note": "飼い主が仕事で外出。愛犬は玄関のゲージに置かれ、扇風機で温度調整される。",
+    "media": null
+  },
+  {
+    "id": "1792536956211-1228",
+    "date": "2026-10-21",
+    "time": "07:56",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっことうんちを排泄",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "発情期の可能性についての記載あり",
+    "media": null
+  },
+  {
     "id": "1792485973268-6847",
     "date": "2026-10-20",
     "time": "17:46",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "1792563148540-6053",
+    "date": "2026-10-21",
+    "time": "17:44",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夜の散歩でおしっこ・うんち各2回、セントローリング現象を確認",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "夜間の散歩中に排泄。うんちでセントローリング現象（肛門周辺のかゆみなどの症状）が見られたため、獣医への相談を検討してもよいかもしれません",
+    "media": null
+  },
+  {
     "id": "1792537800482-8162",
     "date": "2026-10-21",
     "time": "08:11",
@@ -15,7 +35,11 @@
       "description": "飼い主の仕事のため、愛犬が玄関のゲージでお留守番。扇風機をつけて暑さ対策をして出かけるとのこと。"
     },
     "note": "飼い主が仕事で外出。愛犬は玄関のゲージに置かれ、扇風機で温度調整される。",
-    "media": null
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1R3RTrXkQSMB3zwjVPiaXEJWg01qgOwJe/preview",
+      "link": "https://drive.google.com/file/d/1R3RTrXkQSMB3zwjVPiaXEJWg01qgOwJe/view?media=video"
+    }
   },
   {
     "id": "1792536956211-1228",

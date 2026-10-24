@@ -1,5 +1,70 @@
 [
   {
+    "id": "1792744855033-2463",
+    "date": "2026-10-24",
+    "time": "09:19",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ソファーの上でくつろいでリラックス中",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファーの上で毛布に包まれてくつろいでいる"
+    },
+    "note": "毛布に包まれてソファーで快適に過ごしている様子",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1SPbYb44h1VfPPnNfvFM0ZtEJQWufX_F2&sz=w2000",
+      "link": "https://drive.google.com/file/d/1SPbYb44h1VfPPnNfvFM0ZtEJQWufX_F2/view"
+    }
+  },
+  {
+    "id": "1792792237184-6754",
+    "date": "2026-10-24",
+    "time": "06:51",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "動画撮影を始めると遊びをやめてしまう",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "動画撮影を開始したとき"
+    },
+    "play_other": null,
+    "note": "ふうちゃんが動画撮影を開始すると、遊ぶのをやめてしまう様子が報告されました。カメラ意識の可能性があります。",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1792792237184-6754?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
+    "id": "1792746871217-9578",
+    "date": "2026-10-24",
+    "time": "06:41",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩で土砂降りの中、おしっこうんちをしっかり済ませた",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "土砂降りで濡れたため、そのままお風呂に入れて乾燥中",
+    "media": null
+  },
+  {
     "id": "1792744818599-2662",
     "date": "2026-10-23",
     "time": "17:40",

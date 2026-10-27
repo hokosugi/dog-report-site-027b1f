@@ -1,5 +1,25 @@
 [
   {
+    "id": "1793097558862-9945",
+    "date": "2026-10-27",
+    "time": "19:40",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝と夕方の散歩で排泄あり、虫探しで活動量少なめ",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中ずっと虫を探していてほとんど動かず。排泄は正常。朝と夕方両方での記録と思われる。",
+    "media": null
+  },
+  {
     "id": "1793018878562-3011",
     "date": "2026-10-26",
     "time": "21:48",

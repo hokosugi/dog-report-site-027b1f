@@ -1,5 +1,90 @@
 [
   {
+    "id": "1793314093482-1765",
+    "date": "2026-10-30",
+    "time": "07:49",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "クッションから顔面ダイブで爆睡中（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "茶色いクッションベッドにぐでっと体を預けて、顔を外に出して気持ちよさそうに寝ているところを激写。隣には青いベッドとおもちゃも待機中だけど完全に無視してクッション優先の模様（笑）"
+    },
+    "note": "音声内容が「日常」のみで詳細不明瞭だったため、写真から判断しました。ビーズクッションに顔を埋めて熟睡している様子ｗ",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1ATOH-9h1XH7GCczIGL84Dzu0TqOzfwqB&sz=w2000",
+      "link": "https://drive.google.com/file/d/1ATOH-9h1XH7GCczIGL84Dzu0TqOzfwqB/view"
+    }
+  },
+  {
+    "id": "1793312159423-4346",
+    "date": "2026-10-30",
+    "time": "07:16",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "謎のAI改良報告、ふうちゃんは蚊帳の外（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "音声内容がAIモデルの改良についての話で、愛犬の記録として判断できませんでした"
+    },
+    "note": "内容が不明瞭でした。愛犬の記録ではなくシステムに関する発言のようです",
+    "media": null
+  },
+  {
+    "id": "1793312127667-2046",
+    "date": "2026-10-30",
+    "time": "07:15",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "雨の中でも朝散歩、おしっこもうんちも完了w",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "雨の中でしたがしっかり排泄も済ませました（笑）",
+    "media": null
+  },
+  {
+    "id": "1793306210548-7491",
+    "date": "2026-10-30",
+    "time": "05:37",
+    "type": "behavior",
+    "recorder": "ゆきこ",
+    "summary": "お手をしてくれました！上手にしつけが身についてますね",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "飼い主さんのお手のコマンド。室内でリラックスした環境での訓練風景"
+    },
+    "play_other": null,
+    "note": "飼い主さんとの楽しい触れ合いの時間。愛犬がお手のコマンドに応じて実行している様子が写真に捉えられています",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1DslYkiZ69TW9HmPa_JcuRzi0CV1z5MSY&sz=w2000",
+      "link": "https://drive.google.com/file/d/1DslYkiZ69TW9HmPa_JcuRzi0CV1z5MSY/view"
+    }
+  },
+  {
     "id": "1793254384789-8980",
     "date": "2026-10-29",
     "time": "18:15",

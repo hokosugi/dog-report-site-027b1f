@@ -1,5 +1,51 @@
 [
   {
+    "id": "1793416563940-3706",
+    "date": "2026-10-31",
+    "time": "12:26",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ソファにだらーんと究極のお得意体勢（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファの背もたれに顎を乗せてとろけるような顔で脱力中。お得意の体勢とのことで、相当リラックスした様子（笑）"
+    },
+    "note": "内容が不明瞭でしたが、写真から寛ぎの姿勢と判断しましたw",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1B1NFylGvYp8x-IEFJCKkBdUfRwuRUYlf&sz=w2000",
+      "link": "https://drive.google.com/file/d/1B1NFylGvYp8x-IEFJCKkBdUfRwuRUYlf/view"
+    }
+  },
+  {
+    "id": "1793398972015-7913",
+    "date": "2026-10-31",
+    "time": "07:00",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝散歩でおしっこもうんちも完璧コンボ達成w",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "帰宅後はビーズクッションでだらーんと爆睡中、いつもの光景w",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1mTwjIVFI0U9qJWzwn_xwh5AQVeAXBQf9&sz=w2000",
+      "link": "https://drive.google.com/file/d/1mTwjIVFI0U9qJWzwn_xwh5AQVeAXBQf9/view"
+    }
+  },
+  {
     "id": "1793354925500-3494",
     "date": "2026-10-30",
     "time": "20:20",

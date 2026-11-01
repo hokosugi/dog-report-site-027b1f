@@ -1,5 +1,47 @@
 [
   {
+    "id": "1793505033609-5452",
+    "date": "2026-11-01",
+    "time": "12:50",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ソファでぐっすり、片耳ピーンと爆睡中w",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ソファの上で気持ちよさそうに寝ているところを激写された模様。片耳が立っているのが面白ポイント（笑）"
+    },
+    "note": "音声が「耳が耳が」で途切れていて内容が不明瞭でした。写真ではクッションに顔を埋めてスヤスヤ爆睡、片耳だけピンと立っていて可愛い（笑）",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1Oe38E5YEL9PJHr02qgXepd7BpfcT6nBF&sz=w2000",
+      "link": "https://drive.google.com/file/d/1Oe38E5YEL9PJHr02qgXepd7BpfcT6nBF/view"
+    }
+  },
+  {
+    "id": "1793488906937-2390",
+    "date": "2026-11-01",
+    "time": "08:21",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩中にうんちとおしっこ両方コンボ達成（笑）",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中の排泄、特に異常なさそうでした",
+    "media": null
+  },
+  {
     "id": "1793438035452-9633",
     "date": "2026-10-31",
     "time": "18:14",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "1793665658562-5563",
+    "date": "2026-11-02",
+    "time": null,
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝晩の散歩でおしっこ＆うんち、絶好調コンビ（笑）",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "「12月2日」と発言されましたが本日より未来のため、前日11月2日の言い間違いと推測して記録。朝と夜の散歩も実施した様子。",
+    "media": null
+  },
+  {
     "id": "1793516733765-8855",
     "date": "2026-11-01",
     "time": "17:40",

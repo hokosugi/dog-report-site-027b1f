@@ -1,5 +1,25 @@
 [
   {
+    "id": "1793789227170-1228",
+    "date": "2026-11-04",
+    "time": "19:47",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夕方散歩でおしっこもうんちも完了（笑）",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中に排泄を済ませた様子",
+    "media": null
+  },
+  {
     "id": "1793698380241-7772",
     "date": "2026-11-04",
     "time": "08:39",

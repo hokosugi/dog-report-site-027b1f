@@ -1,5 +1,55 @@
 [
   {
+    "id": "1794000238565-7163",
+    "date": "2026-11-07",
+    "time": "06:24",
+    "type": "walk",
+    "recorder": "父",
+    "summary": "朝散歩中、コンクリの穴に夢中で動かずw",
+    "meal": null,
+    "elimination": null,
+    "walk": {
+      "duration_min": null,
+      "distance_km": null,
+      "place": "",
+      "condition": "元気",
+      "weather": null
+    },
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "道端の小さな穴を熱心に観察していた模様（笑）",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794000238565-7163?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
+    "id": "1794002239818-5696",
+    "date": "2026-11-07",
+    "time": null,
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "新コース中部台の奥でうんちもおしっこも完璧達成(笑)",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝の散歩で新しいコースで遠征。排泄もしっかりできて一石二鳥な散歩でしたw",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794002239818-5696?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
     "id": "1793968141622-3276",
     "date": "2026-11-06",
     "time": "21:29",

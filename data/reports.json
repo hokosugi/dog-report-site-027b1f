@@ -1,5 +1,28 @@
 [
   {
+    "id": "1794030549559-1490",
+    "date": "2026-11-07",
+    "time": "17:21",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "ふうちゃん、物拾い芸に目覚める予感(笑)",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "物を投げると拾いに行く動作を繰り返していた"
+    },
+    "play_other": null,
+    "note": "ボール投げ遊びをしていたら拾って戻ってくる仕草を見せ始めた模様。芸人デビューも近いかもw",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794030549559-1490?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
     "id": "1794000238565-7163",
     "date": "2026-11-07",
     "time": "06:24",

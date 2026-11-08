@@ -1,5 +1,74 @@
 [
   {
+    "id": "1794135980993-7060",
+    "date": "2026-11-08",
+    "time": "20:07",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "歩道橋で再び固まるふうちゃん、降りれず（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "不安",
+      "trigger": "歩道橋を渡ろうとしたら怖がって降りられなくなった"
+    },
+    "play_other": null,
+    "note": "パートツーとのことで、前回に続き歩道橋が苦手な模様w",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794135980993-7060?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
+    "id": "1794136038122-9565",
+    "date": "2026-11-08",
+    "time": "20:07",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "歩道橋デビュー失敗、頂上で固まるふうちゃん（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "不安",
+      "trigger": "はじめての歩道橋で怖気づいて降りられなかった"
+    },
+    "play_other": null,
+    "note": "反対側の降り口に移動しても結局降りられず",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794136038122-9565?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
+    "id": "1794123108786-3597",
+    "date": "2026-11-08",
+    "time": "20:06",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "初めての歩道橋でビビって降りれず終始停止w",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "不安",
+      "trigger": "初めての歩道橋に遭遇し、下りることができず固まってしまった"
+    },
+    "play_other": null,
+    "note": "音声内容が若干不明瞭でしたが、歩道橋を怖がって降りられなかった様子と判断しました",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794123108786-3597?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
     "id": "1794114753166-9336",
     "date": "2026-11-08",
     "time": "14:12",
@@ -15,7 +84,11 @@
       "description": "猫のような雰囲気を醸し出していたふうちゃんの様子"
     },
     "note": "内容が不明瞭でした。猫のような仕草をしていた可能性あり(笑)",
-    "media": null
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1CvqlmiwtDfZmbYF07oEnSPnmdr32cjQA/preview",
+      "link": "https://drive.google.com/file/d/1CvqlmiwtDfZmbYF07oEnSPnmdr32cjQA/view?media=video"
+    }
   },
   {
     "id": "1794107334941-8913",

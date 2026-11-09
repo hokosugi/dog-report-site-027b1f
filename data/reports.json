@@ -1,5 +1,47 @@
 [
   {
+    "id": "1794181374307-8799",
+    "date": "2026-11-09",
+    "time": "08:44",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "新クッションに難なく登頂、爆睡モードw",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "新しく変えた高さのあるクッションにふうちゃんが自力で登り、まるで王様気分でぐっすりお昼寝していました（笑）落ちないか心配するレベルの高さですが本犬は平然としていましたw"
+    },
+    "note": "高さのある新しいクッションにも物怖じせず登って熟睡していました（笑）",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1l0X7mcEV8Qmu6Nx4c7Fze-D0ZsQENL44&sz=w2000",
+      "link": "https://drive.google.com/file/d/1l0X7mcEV8Qmu6Nx4c7Fze-D0ZsQENL44/view"
+    }
+  },
+  {
+    "id": "1794178759673-1060",
+    "date": "2026-11-09",
+    "time": "07:59",
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝の散歩でおしっこもうんちも完了w",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "朝の散歩中にしっかり両方済ませました（笑）",
+    "media": null
+  },
+  {
     "id": "1794135980993-7060",
     "date": "2026-11-08",
     "time": "20:07",
@@ -111,6 +153,32 @@
       "type": "video",
       "file": null,
       "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794107334941-8913?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
+    "id": "1794181513717-7284",
+    "date": "2026-11-08",
+    "time": null,
+    "type": "health",
+    "recorder": "母",
+    "summary": "昨日は爪切りデビュー、暴れずに完了w",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": {
+      "weight_kg": null,
+      "hospital_visit": false,
+      "medication": "",
+      "symptom": "爪切り実施",
+      "vet_name": ""
+    },
+    "behavior": null,
+    "play_other": null,
+    "note": "爪切り実施",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1fgHW1Yx3vLjNM53T-wQd2jlczfqlV4CR/preview",
+      "link": "https://drive.google.com/file/d/1fgHW1Yx3vLjNM53T-wQd2jlczfqlV4CR/view?media=video"
     }
   },
   {

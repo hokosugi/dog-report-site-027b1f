@@ -1,5 +1,50 @@
 [
   {
+    "id": "1794256966527-1236",
+    "date": "2026-11-10",
+    "time": "05:43",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "ふうちゃん、朝の挨拶を華麗にスルーされるw",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "飼い主の朝の挨拶に反応せず無視した模様"
+    },
+    "play_other": null,
+    "note": "朝の挨拶を透かされた（無視された）ようです（笑）",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794256966527-1236?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
+    "id": "1794190433052-6188",
+    "date": "2026-11-10",
+    "time": "05:15",
+    "type": "play_other",
+    "recorder": "父",
+    "summary": "ふうちゃん、まさかの猫疑惑発生なのか（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "猫を飼っていたのかもしれない、これは犬ではないのでは、という謎の発言のみで詳細不明。"
+    },
+    "note": "内容が不明瞭でした。犬か猫か謎のつぶやきでしたw",
+    "media": {
+      "type": "video",
+      "file": null,
+      "link": "https://fuchan-video.masashi-japan-4fc.workers.dev/videos/1794190433052-6188?token=Fu-chan_2026-7-11&media=video"
+    }
+  },
+  {
     "id": "1794208682292-4287",
     "date": "2026-11-09",
     "time": "16:18",
@@ -59,6 +104,26 @@
     "behavior": null,
     "play_other": null,
     "note": "朝の散歩中にしっかり両方済ませました（笑）",
+    "media": null
+  },
+  {
+    "id": "1794255382465-7323",
+    "date": "2026-11-09",
+    "time": null,
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "夜の散歩でうんちもおしっこも完璧達成w",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": null
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "散歩中にしっかり排泄できました",
     "media": null
   },
   {

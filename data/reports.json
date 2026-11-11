@@ -1,5 +1,92 @@
 [
   {
+    "id": "1794396809049-1781",
+    "date": "2026-11-11",
+    "time": "20:34",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "お父さんに甘えてキスするふうちゃん（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "お父さんが床に寝転がりながらふうちゃんと戯れている様子。ふうちゃんがお父さんの顔に顔を近づけてキスしているような構図で、お父さんは目を閉じて幸せそう。すっかり親子の癒しタイムw"
+    },
+    "note": "床で寝転ぶお父さんの顔にチュッ！完全にメロメロにされてますw",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1TuE3vIypD708UNPaOoUbmjaT61O2jVhJ&sz=w2000",
+      "link": "https://drive.google.com/file/d/1TuE3vIypD708UNPaOoUbmjaT61O2jVhJ/view"
+    }
+  },
+  {
+    "id": "1794396723701-4556",
+    "date": "2026-11-11",
+    "time": "20:32",
+    "type": "behavior",
+    "recorder": "母",
+    "summary": "こたつの下に潜伏して現行犯でバレる（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "その他",
+      "trigger": "机の下の洗濯物エリアに潜り込んで悪さをしていた様子"
+    },
+    "play_other": null,
+    "note": "洗濯物の山に紛れて隠れていたが、カメラ目線でバッチリ目が合った模様w",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1amOJqW2i_qjq3b9ZfGsEZ_WaT2zlVqyE&sz=w2000",
+      "link": "https://drive.google.com/file/d/1amOJqW2i_qjq3b9ZfGsEZ_WaT2zlVqyE/view"
+    }
+  },
+  {
+    "id": "1794375799001-4757",
+    "date": "2026-11-11",
+    "time": "14:43",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ソファで爆睡、夢の中でもお散歩中かもw",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "もふもふの毛布とクッションに埋もれて熟睡中。手足を伸ばしきった無防備な寝相が可愛すぎる（笑）"
+    },
+    "note": "気持ちよさそうにぐっすりお昼寝していました（笑）",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1WaTha16Neh02tvhVATvGjX6n3JlEGy8p&sz=w2000",
+      "link": "https://drive.google.com/file/d/1WaTha16Neh02tvhVATvGjX6n3JlEGy8p/view"
+    }
+  },
+  {
+    "id": "1794398492502-6771",
+    "date": "2026-11-11",
+    "time": null,
+    "type": "elimination",
+    "recorder": "父",
+    "summary": "朝夕しっかり快便＆放尿、絶好調ですw",
+    "meal": null,
+    "elimination": {
+      "kind": "両方",
+      "stool_condition": "正常",
+      "count": 2
+    },
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": null,
+    "note": "安定してきたため、今後は普段通りの排泄は記録を省略し、異常があった時のみ投稿する方針とのこと",
+    "media": null
+  },
+  {
     "id": "1794314459904-3170",
     "date": "2026-11-10",
     "time": "21:41",

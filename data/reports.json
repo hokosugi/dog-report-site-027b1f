@@ -1,5 +1,28 @@
 [
   {
+    "id": "1795038149299-1499",
+    "date": "2026-11-19",
+    "time": "06:42",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "ふうちゃん、一輪車に大ビビりで後ずさりw",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "不安",
+      "trigger": "一輪車を見て怖がった"
+    },
+    "play_other": null,
+    "note": "なぜか一輪車が苦手な様子でした（笑）",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1K2uNFKF6QR19coV16YaUaMfNmrkW08hu/preview",
+      "link": "https://drive.google.com/file/d/1K2uNFKF6QR19coV16YaUaMfNmrkW08hu/view?media=video"
+    }
+  },
+  {
     "id": "1794972000265-3130",
     "date": "2026-11-18",
     "time": "12:20",

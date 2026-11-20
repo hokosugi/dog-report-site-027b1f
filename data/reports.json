@@ -1,5 +1,50 @@
 [
   {
+    "id": "1795039154221-7500",
+    "date": "2026-11-20",
+    "time": "08:05",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "今朝のふうちゃん、謎の行動で家族を困惑w",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "今朝のふうちゃんについての発言のみで、具体的な内容は不明でした（笑）"
+    },
+    "note": "内容が不明瞭でした",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1Eda3kEbCU5XdxLoOjbzeyGG3HV5GxI1W/preview",
+      "link": "https://drive.google.com/file/d/1Eda3kEbCU5XdxLoOjbzeyGG3HV5GxI1W/view?media=video"
+    }
+  },
+  {
+    "id": "1795118957916-3554",
+    "date": "2026-11-20",
+    "time": "05:09",
+    "type": "behavior",
+    "recorder": "父",
+    "summary": "ファンヒーターにビクッと驚くふうちゃん、臆病すぎw",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": {
+      "behavior_type": "不安",
+      "trigger": "ファンヒーターの音または温風に驚いた"
+    },
+    "play_other": null,
+    "note": "起動音か温風にびっくりした様子（笑）",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1fY1w4-7BjUb7WyJ3UaJ6x_agLoXey8r-/preview",
+      "link": "https://drive.google.com/file/d/1fY1w4-7BjUb7WyJ3UaJ6x_agLoXey8r-/view?media=video"
+    }
+  },
+  {
     "id": "1795038149299-1499",
     "date": "2026-11-19",
     "time": "06:42",

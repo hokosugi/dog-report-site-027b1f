@@ -1,5 +1,45 @@
 [
   {
+    "id": "1795510891316-7363",
+    "date": "2026-11-24",
+    "time": "18:01",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": null
+    },
+    "note": "（要確認：Claude分類エラー: SyntaxError: Expected ',' or '}' after property value in JSON at position 258 (line 1 column 259)）",
+    "media": {
+      "type": "image",
+      "file": "https://drive.google.com/thumbnail?id=1qyoC5fVZ19K2_RHwSjmtiinkJcUzKmqE&sz=w2000",
+      "link": "https://drive.google.com/file/d/1qyoC5fVZ19K2_RHwSjmtiinkJcUzKmqE/view"
+    }
+  },
+  {
+    "id": "1795499667820-6816",
+    "date": "2026-11-24",
+    "time": "14:54",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ふうちゃん、昼寝中に良い夢見てますw",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "お昼寝中に良い夢を見ているような様子だった（笑）"
+    },
+    "note": "寝ながら夢を見ているような様子",
+    "media": null
+  },
+  {
     "id": "1795304473450-7403",
     "date": "2026-11-23",
     "time": "07:33",

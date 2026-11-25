@@ -1,5 +1,27 @@
 [
   {
+    "id": "1795557808935-5297",
+    "date": "2026-11-25",
+    "time": "07:10",
+    "type": "play_other",
+    "recorder": "母",
+    "summary": "ふうちゃん、天気予報に食い入る謎の気象予報士デビュー（笑）",
+    "meal": null,
+    "elimination": null,
+    "walk": null,
+    "health": null,
+    "behavior": null,
+    "play_other": {
+      "description": "ふうちゃんがテレビの天気予報を見つめていた様子"
+    },
+    "note": "テレビの天気予報をじっと見つめていた模様w 明日の散歩コースでも検討してたのかもw",
+    "media": {
+      "type": "video",
+      "file": "https://drive.google.com/file/d/1oP7eT36oyfN6A0s6Od_P7fLIT96LjFAA/preview",
+      "link": "https://drive.google.com/file/d/1oP7eT36oyfN6A0s6Od_P7fLIT96LjFAA/view?media=video"
+    }
+  },
+  {
     "id": "1795510891316-7363",
     "date": "2026-11-24",
     "time": "18:01",
